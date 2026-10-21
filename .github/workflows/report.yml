@@ -1,0 +1,73 @@
+# Informational: run the pipeline on master and on the PR, and post the difference
+# as one comment that updates on every push.
+name: Report
+
+on:
+  pull_request:
+
+concurrency:
+  group: report-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          path: head
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+      - uses: astral-sh/setup-uv@v10.3.0
+        with:
+          enable-cache: true
+          cache-dependency-glob: "*/uv.lock"
+      - uses: actions/cache@v6
+        with:
+          path: |
+            ~/.cache/Tectonic
+            head/.tools
+          key: tectonic-${{ runner.os }}-${{ hashFiles('head/paper/main.tex') }}
+          restore-keys: tectonic-${{ runner.os }}-
+
+      # Both runs share this runner, so their timings are comparable.
+      - name: Run master
+        working-directory: base
+        run: uv run hof run --out ../runs/master
+      - name: Run this PR
+        working-directory: head
+        run: uv run hof run --out ../runs/pr
+      - name: Compare
+        working-directory: head
+        run: uv run hof diff ../runs/master ../runs/pr --out ../runs/report.md --csv ../runs/diff.csv
+      - name: Build paper
+        working-directory: head
+        run: uv run hof paper --run ../runs/pr
+
+      - id: paper
+        uses: actions/upload-artifact@v7
+        with:
+          name: paper
+          path: head/paper/build/main.pdf
+      - id: runs
+        uses: actions/upload-artifact@v7
+        with:
+          name: rankings
+          path: runs/
+      - name: Add links
+        run: |
+          {
+            echo
+            echo "[Paper PDF](${{ steps.paper.outputs.artifact-url }}) · [Full rankings and diff CSV](${{ steps.runs.outputs.artifact-url }}) · [Workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})"
+          } >> runs/report.md
+          cat runs/report.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: marocchino/sticky-pull-request-comment@v3.0.5
+        with:
+          header: hof-report
+          path: runs/report.md

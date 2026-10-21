@@ -1,0 +1,7 @@
+# Store and check out every text file with LF line endings, on every OS.
+# Without this, Windows checkouts get CRLF and data hashes and golden files break.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.pdf binary
+*.png binary
+*.zip binary

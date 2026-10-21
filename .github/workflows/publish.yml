@@ -1,0 +1,39 @@
+# On every merge to master: publish the latest paper and results to the `latest` release,
+# so there is always one link to the current PDF.
+name: Publish
+
+on:
+  push:
+    branches: [master]
+
+concurrency:
+  group: publish
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.3.0
+        with:
+          enable-cache: true
+      - uses: actions/cache@v6
+        with:
+          path: |
+            ~/.cache/Tectonic
+            .tools
+          key: tectonic-${{ runner.os }}-${{ hashFiles('paper/main.tex') }}
+          restore-keys: tectonic-${{ runner.os }}-
+      - run: uv run hof run --out results
+      - run: uv run hof paper --run results
+      - run: |
+          cp paper/build/main.pdf results/paper.pdf
+          gh release view latest >/dev/null 2>&1 || gh release create latest \
+            --title "Latest paper and results" --notes "Rebuilt on every merge to master." --latest=false
+          gh release upload latest results/paper.pdf results/rankings.csv results/metrics.json --clobber

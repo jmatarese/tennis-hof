@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+
+# Downloaded by `hof setup`
+data/raw/
+.tools/
+
+# Outputs: rebuilt from code, never committed
+results/
+paper/generated/
+paper/build/
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

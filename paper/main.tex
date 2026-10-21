@@ -1,0 +1,67 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage[hidelinks]{hyperref}
+\usepackage{natbib}
+
+% Every number below comes from generated/results.tex, which `hof paper`
+% writes from a pipeline run. Never type a result by hand.
+\input{generated/results.tex}
+
+\title{An Objective Ranking of ATP Players for the International Tennis Hall of Fame}
+% One \and per author; keep in sync with AUTHORS.md.
+\author{Jake Matarese}
+\date{Draft}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% TODO: write once the method is settled.
+Draft. The current method is a placeholder so the pipeline runs end to end.
+\end{abstract}
+
+\section{Introduction}
+The International Tennis Hall of Fame inducts players by vote~\citep{ithf}.
+% TODO: the research question.
+
+\section{Data}
+Match results, weekly rankings and player records from Jeff Sackmann's ATP
+data~\citep{sackmann}, pinned to one snapshot (see \texttt{data/snapshot.toml}).
+% TODO: record every data decision here as it is made: tournament levels,
+% walkovers, round robins, rankings before 1973, which years are covered.
+
+\section{Method}
+% TODO: the team's method. Placeholder: score = major singles titles.
+Score threshold \Threshold, fitted on players eligible up to \SplitYear.
+
+\section{Properties}
+% TODO: the axioms the ranking satisfies (see tests/test_model.py).
+
+\section{Evaluation}
+Table~\ref{tab:metrics} compares the score with the Hall's own automatic-ballot
+rule on the \TestPlayers{} contenders who became eligible after \SplitYear{} and by \AsOf{}, of
+whom \TestInducted{} were inducted.
+
+\begin{table}[h]
+\centering
+\MetricsTable
+\caption{Agreement with real inductions on held-out years.}
+\label{tab:metrics}
+\end{table}
+
+\begin{table}[h]
+\centering
+\small
+\TopTable
+\caption{The fifteen highest career scores.}
+\label{tab:top}
+\end{table}
+
+\section{Discussion}
+% TODO
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}

@@ -1,0 +1,50 @@
+# Required on every PR: lint, format and tests on every OS the team uses.
+# Linux is what the report and publish workflows run on.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: check (${{ matrix.os }})
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.3.0
+        with:
+          enable-cache: true
+      - run: uv run hof check
+
+  # Runs the same setup script a new teammate runs, from scratch, so it never rots.
+  setup:
+    name: setup script (${{ matrix.os }})
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v7
+      - run: |
+          git config --global user.name "CI"
+          git config --global user.email "ci@example.com"
+      - if: runner.os == 'Windows'
+        run: powershell -ExecutionPolicy Bypass -File scripts\setup.ps1
+      - if: runner.os != 'Windows'
+        run: bash scripts/setup.sh

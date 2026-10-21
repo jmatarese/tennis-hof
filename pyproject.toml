@@ -1,0 +1,48 @@
+[project]
+name = "hof"
+version = "0.1.0"
+description = "An objective ranking of ATP players for the International Tennis Hall of Fame"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=2.2.0",
+    "numpy>=2.1",
+    "pandas>=2.2",
+    "pandera>=0.22",
+    "scipy>=1.14",
+]
+
+[project.scripts]
+hof = "hof.cli:main"
+
+[dependency-groups]
+dev = [
+    "hypothesis>=6.120",
+    "nbstripout>=0.8",
+    "pre-commit>=4.0",
+    "pytest>=8.3",
+    "pytest-regressions>=2.6",
+    "ruff>=0.8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+required-version = ">=0.5"
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+# E/F: errors, I: import order, B: likely bugs, UP: modern syntax,
+# PLW1514: open() without encoding= (breaks on Windows, where the default is not UTF-8)
+select = ["E", "F", "I", "B", "UP", "PLW1514"]
+preview = true
+explicit-preview-rules = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

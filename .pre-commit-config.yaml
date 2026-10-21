@@ -1,0 +1,28 @@
+# Runs on every `git commit`. Installed by `uv run hof setup`.
+# The tools come from pyproject.toml through uv, so there is one version of each.
+repos:
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: ruff check
+        entry: uv run ruff check --fix
+        language: system
+        types_or: [python, pyi, jupyter]
+      - id: ruff-format
+        name: ruff format
+        entry: uv run ruff format
+        language: system
+        types_or: [python, pyi, jupyter]
+      - id: nbstripout
+        name: strip notebook outputs
+        entry: uv run nbstripout
+        language: system
+        types: [jupyter]
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-added-large-files  # data belongs in a snapshot release, not in git
+        args: [--maxkb=1024]
+      - id: check-merge-conflict
+      - id: no-commit-to-branch  # never commit straight to master
+        args: [--branch, master]

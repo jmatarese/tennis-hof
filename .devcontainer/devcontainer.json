@@ -1,0 +1,18 @@
+{
+  "name": "tennis-hof",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "postCreateCommand": "bash scripts/setup.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "charliermarsh.ruff",
+        "james-yu.latex-workshop",
+        "github.vscode-pull-request-github"
+      ]
+    }
+  }
+}
