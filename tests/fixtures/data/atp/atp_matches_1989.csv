@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1989-520,Roland Garros,Clay,128,G,19890529,125,102021,15,,Michael Chang,R,175,USA,17.2,101230,,,Andrei Chesnokov,R,188,RUS,23.3,6-1 5-7 7-6 7-5,5,SF,,,,,,,,,,,,,,,,,,,,19,,27,
+1989-520,Roland Garros,Clay,128,G,19890529,126,101222,3,,Stefan Edberg,R,188,SWE,23.3,101414,2,,Boris Becker,R,190,GER,21.5,6-3 6-4 5-7 3-6 6-2,5,SF,,,,,,,,,,,,,,,,,,,,3,,2,
+1989-520,Roland Garros,Clay,128,G,19890529,127,102021,15,,Michael Chang,R,175,USA,17.2,101222,3,,Stefan Edberg,R,188,SWE,23.3,6-1 3-6 4-6 6-4 6-2,5,F,,,,,,,,,,,,,,,,,,,,19,,3,
+1989-540,Wimbledon,Grass,128,G,19890626,125,101414,3,,Boris Becker,R,190,GER,21.5,100656,1,,Ivan Lendl,R,188,USA,29.3,7-5 6-7 2-6 6-4 6-3,5,SF,,,,,,,,,,,,,,,,,,,,2,,1,
+1989-540,Wimbledon,Grass,128,G,19890626,126,101222,2,,Stefan Edberg,R,188,SWE,23.4,100581,5,,John McEnroe,L,180,USA,30.3,7-5 7-6 7-6,5,SF,,,,,,,,,,,,,,,,,,,,3,,8,
+1989-540,Wimbledon,Grass,128,G,19890626,127,101414,3,,Boris Becker,R,190,GER,21.5,101222,2,,Stefan Edberg,R,188,SWE,23.4,6-0 7-6 6-4,5,F,,,,,,,,,,,,,,,,,,,,2,,3,
+1989-560,US Open,Hard,128,G,19890828,125,100656,1,,Ivan Lendl,R,188,USA,29.4,101736,6,,Andre Agassi,R,180,USA,19.3,7-6 6-1 3-6 6-1,5,SF,,,,,,,,,,,,,,,,,,,,1,,6,
+1989-560,US Open,Hard,128,G,19890828,126,101414,2,,Boris Becker,R,190,GER,21.7,101381,14,,Aaron Krickstein,R,183,USA,22.0,6-4 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,2,,16,
+1989-560,US Open,Hard,128,G,19890828,127,101414,2,,Boris Becker,R,190,GER,21.7,100656,1,,Ivan Lendl,R,188,USA,29.4,7-6 1-6 6-3 7-6,5,F,,,,,,,,,,,,,,,,,,,,2,,1,
+1989-580,Australian Open,Hard,128,G,19890116,125,101036,9,,Miloslav Mecir,R,190,SVK,24.6,100829,,,Jan Gunnarsson,R,185,SWE,26.6,7-5 6-2 6-2,5,SF,,,,,,,,,,,,,,,,,,,,13,,85,
+1989-580,Australian Open,Hard,128,G,19890116,126,100656,2,,Ivan Lendl,R,188,USA,28.8,101404,11,,Thomas Muster,L,180,AUT,21.2,6-2 6-4 5-7 7-5,5,SF,,,,,,,,,,,,,,,,,,,,2,,15,
+1989-580,Australian Open,Hard,128,G,19890116,127,100656,2,,Ivan Lendl,R,188,USA,28.8,101036,9,,Miloslav Mecir,R,190,SVK,24.6,6-2 6-2 6-2,5,F,,,,,,,,,,,,,,,,,,,,2,,13,

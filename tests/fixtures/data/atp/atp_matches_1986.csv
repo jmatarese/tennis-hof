@@ -1,0 +1,10 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1986-520,Roland Garros,Clay,128,G,19860526,125,100656,1,,Ivan Lendl,R,188,USA,26.2,100532,13,,Johan Kriek,R,175,USA,28.1,6-2 6-1 6-0,5,SF,,,,,,,,,,,,,,,,,,,,1,,19,
+1986-520,Roland Garros,Clay,128,G,19860526,126,100944,,,Mikael Pernfors,R,173,SWE,22.8,100936,8,,Henri Leconte,L,185,FRA,22.8,2-6 7-5 7-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,27,,10,
+1986-520,Roland Garros,Clay,128,G,19860526,127,100656,1,,Ivan Lendl,R,188,USA,26.2,100944,,,Mikael Pernfors,R,173,SWE,22.8,6-3 6-2 6-4,5,F,,,,,,,,,,,,,,,,,,,,1,,27,
+1986-540,Wimbledon,Grass,128,G,19860623,125,100656,1,,Ivan Lendl,R,188,USA,26.2,100946,,,Slobodan Zivojinovic,R,198,YUG,22.9,6-2 6-7 6-3 6-7 6-4,5,SF,,,,,,,,,,,,,,,,,,,,1,,36,
+1986-540,Wimbledon,Grass,128,G,19860623,126,101414,4,,Boris Becker,R,190,GER,18.5,100936,7,,Henri Leconte,L,185,FRA,22.9,6-2 6-4 6-7 6-3,5,SF,,,,,,,,,,,,,,,,,,,,6,,9,
+1986-540,Wimbledon,Grass,128,G,19860623,127,101414,4,,Boris Becker,R,190,GER,18.5,100656,1,,Ivan Lendl,R,188,USA,26.2,6-4 6-3 7-5,5,F,,,,,,,,,,,,,,,,,,,,6,,1,
+1986-560,US Open,Hard,128,G,19860826,298,101036,16,,Miloslav Mecir,R,190,SVK,22.2,101414,3,,Boris Becker,R,190,GER,18.7,4-6 6-3 6-4 3-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,15,,3,
+1986-560,US Open,Hard,128,G,19860826,299,100656,1,,Ivan Lendl,R,188,USA,26.4,101222,4,,Stefan Edberg,R,188,SWE,20.5,7-6 6-2 6-3,5,SF,,,,,,,,,,,,,,,,,,,,1,,4,
+1986-560,US Open,Hard,128,G,19860826,300,100656,1,,Ivan Lendl,R,188,USA,26.4,101036,16,,Miloslav Mecir,R,190,SVK,22.2,6-4 6-2 6-0,5,F,,,,,,,,,,,,,,,,,,,,1,,15,

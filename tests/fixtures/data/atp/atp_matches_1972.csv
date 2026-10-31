@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1972-520,Roland Garros,Clay,64,G,19720522,61,100026,6,,Andres Gimeno,R,185,ESP,34.8,100092,10,,Alex Metreveli,R,,RUS,27.5,4-6 6-3 6-1 2-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-520,Roland Garros,Clay,64,G,19720522,62,100185,9,,Patrick Proisy,R,180,FRA,22.6,100174,4,,Manuel Orantes,L,178,ESP,23.2,6-3 7-5 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-520,Roland Garros,Clay,64,G,19720522,63,100026,6,,Andres Gimeno,R,185,ESP,34.8,100185,9,,Patrick Proisy,R,180,FRA,22.6,4-6 6-3 6-1 6-1,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1972-540,Wimbledon,Grass,128,G,19720626,125,100126,1,,Stan Smith,R,193,USA,25.5,100113,5,,Jan Kodes,R,175,CZE,26.3,3-6 6-4 6-1 7-5,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-540,Wimbledon,Grass,128,G,19720626,126,100119,2,,Ilie Nastase,R,183,ROU,25.9,100174,3,,Manuel Orantes,L,178,ESP,23.3,6-3 6-4 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-540,Wimbledon,Grass,128,G,19720626,127,100126,1,,Stan Smith,R,193,USA,25.5,100119,2,,Ilie Nastase,R,183,ROU,25.9,4-6 6-3 6-3 4-6 7-5,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1972-560,US Open,Grass,128,G,19720830,125,100074,6,,Arthur Ashe,R,185,USA,29.1,100128,12,,Cliff Richey,R,175,USA,25.6,6-1 6-4 7-6,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-560,US Open,Grass,128,G,19720830,126,100119,4,,Ilie Nastase,R,183,ROU,26.1,100127,,,Tom Gorman,R,180,USA,26.6,4-6 7-6 6-2 6-1,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-560,US Open,Grass,128,G,19720830,127,100119,4,,Ilie Nastase,R,183,ROU,26.1,100074,6,,Arthur Ashe,R,185,USA,29.1,3-6 6-3 6-7 6-4 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1972-580,Australian Open,Grass,64,G,19711226,298,100017,8,,Mal Anderson,R,,AUS,36.8,100092,4,,Alex Metreveli,R,,RUS,27.1,6-2 7-6 7-6,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-580,Australian Open,Grass,64,G,19711226,299,100016,2,,Ken Rosewall,R,175,AUS,37.1,100105,10,,Allan Stone,R,,AUS,26.1,7-6 6-1 3-6 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-580,Australian Open,Grass,64,G,19711226,300,100016,2,,Ken Rosewall,R,175,AUS,37.1,100017,8,,Mal Anderson,R,,AUS,36.8,7-6 6-3 7-5,5,F,,,,,,,,,,,,,,,,,,,,,,,

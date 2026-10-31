@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1990-580,Australian Open,Hard,128,G,19900115,125,100656,1,,Ivan Lendl,R,188,USA,29.8,100676,12,,Yannick Noah,R,193,FRA,29.6,6-4 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,1,2913,13,861
+1990-580,Australian Open,Hard,128,G,19900115,126,101222,3,,Stefan Edberg,R,188,SWE,23.9,101062,8,,Mats Wilander,R,183,SWE,25.3,6-1 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,3,2111,15,842
+1990-580,Australian Open,Hard,128,G,19900115,127,100656,1,,Ivan Lendl,R,188,USA,29.8,101222,3,,Stefan Edberg,R,188,SWE,23.9,4-6 7-6 5-2 RET,5,F,,,,,,,,,,,,,,,,,,,,1,2913,3,2111
+1990-520,Roland Garros,Clay,128,G,19900528,125,101736,3,,Andre Agassi,R,180,USA,20.0,101298,,,Jonas Svensson,R,188,SWE,23.6,6-1 6-4 3-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,5,1557,24,756
+1990-520,Roland Garros,Clay,128,G,19900528,126,100653,4,,Andres Gomez,L,193,ECU,30.2,101404,7,,Thomas Muster,L,180,AUT,22.6,7-5 6-1 7-5,5,SF,,,,,,,,,,,,,,,,,,,,7,1529,9,1325
+1990-520,Roland Garros,Clay,128,G,19900528,127,100653,4,,Andres Gomez,L,193,ECU,30.2,101736,3,,Andre Agassi,R,180,USA,20.0,6-3 2-6 6-4 6-4,5,F,,,,,,,,,,,,,,,,,,,,7,1529,5,1557
+1990-540,Wimbledon,Grass,128,G,19900625,125,101222,3,,Stefan Edberg,R,188,SWE,24.4,100656,1,,Ivan Lendl,R,188,USA,30.2,6-1 7-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,3,2606,1,2976
+1990-540,Wimbledon,Grass,128,G,19900625,126,101414,2,,Boris Becker,R,190,GER,22.5,101964,,,Goran Ivanisevic,L,193,CRO,18.7,4-6 7-6 6-0 7-6,5,SF,,,,,,,,,,,,,,,,,,,,2,2752,38,574
+1990-540,Wimbledon,Grass,128,G,19900625,127,101222,3,,Stefan Edberg,R,188,SWE,24.4,101414,2,,Boris Becker,R,190,GER,22.5,6-2 6-2 3-6 3-6 6-4,5,F,,,,,,,,,,,,,,,,,,,,3,2606,2,2752
+1990-560,US Open,Hard,128,G,19900827,125,101948,12,,Pete Sampras,R,185,USA,19.0,100581,,,John McEnroe,L,180,USA,31.5,6-2 6-4 3-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,12,1231,20,1010
+1990-560,US Open,Hard,128,G,19900827,126,101736,4,,Andre Agassi,R,180,USA,20.3,101414,2,,Boris Becker,R,190,GER,22.7,6-7 6-3 6-2 6-3,5,SF,,,,,,,,,,,,,,,,,,,,4,2103,2,2844
+1990-560,US Open,Hard,128,G,19900827,127,101948,12,,Pete Sampras,R,185,USA,19.0,101736,4,,Andre Agassi,R,180,USA,20.3,6-4 6-3 6-2,5,F,,,,,,,,,,,,,,,,,,,,12,1231,4,2103

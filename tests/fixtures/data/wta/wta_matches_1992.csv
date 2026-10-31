@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1992-W-SL-AUS-01A-1992,Australian Open,Hard,128,G,19920113,125,200652,1,,Monica Seles,L,178,USA,18.1,200017,4,,Arantxa Sanchez Vicario,R,168,ESP,20.0,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,277,5,154
+1992-W-SL-AUS-01A-1992,Australian Open,Hard,128,G,19920113,126,200597,7,,Mary Joe Fernandez,R,175,USA,20.4,200572,3,,Gabriela Sabatini,R,175,ARG,21.6,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,7,104,3,205
+1992-W-SL-AUS-01A-1992,Australian Open,Hard,128,G,19920113,127,200652,1,,Monica Seles,L,178,USA,18.1,200597,7,,Mary Joe Fernandez,R,175,USA,20.4,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,277,7,104
+1992-W-SL-FRA-01A-1992,Roland Garros,Clay,128,G,19920525,125,200652,1,,Monica Seles,L,178,USA,18.4,200572,3,,Gabriela Sabatini,R,175,ARG,22.0,6-3 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1,274,4,194
+1992-W-SL-FRA-01A-1992,Roland Garros,Clay,128,G,19920525,126,200414,2,,Steffi Graf,R,175,GER,22.9,200017,4,,Arantxa Sanchez Vicario,R,168,ESP,20.4,0-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,239,5,166
+1992-W-SL-FRA-01A-1992,Roland Garros,Clay,128,G,19920525,127,200652,1,,Monica Seles,L,178,USA,18.4,200414,2,,Steffi Graf,R,175,GER,22.9,6-2 3-6 10-8,3,F,,,,,,,,,,,,,,,,,,,,1,274,2,239
+1992-W-SL-GBR-01A-1992,Wimbledon,Grass,128,G,19920622,125,200652,1,,Monica Seles,L,178,USA,18.5,200293,4,,Martina Navratilova,L,173,USA,35.6,6-2 6-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1,275,4,169
+1992-W-SL-GBR-01A-1992,Wimbledon,Grass,128,G,19920622,126,200414,2,,Steffi Graf,R,175,GER,23.0,200572,3,,Gabriela Sabatini,R,175,ARG,22.1,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2,250,3,194
+1992-W-SL-GBR-01A-1992,Wimbledon,Grass,128,G,19920622,127,200414,2,,Steffi Graf,R,175,GER,23.0,200652,1,,Monica Seles,L,178,USA,18.5,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,2,250,1,275
+1992-W-SL-USA-01A-1992,US Open,Hard,128,G,19920831,125,200652,1,,Monica Seles,L,178,USA,18.7,200597,7,,Mary Joe Fernandez,R,175,USA,21.0,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,275,7,101
+1992-W-SL-USA-01A-1992,US Open,Hard,128,G,19920831,126,200017,5,,Arantxa Sanchez Vicario,R,168,ESP,20.7,200401,9,,Manuela Maleeva Fragniere,R,173,SUI,25.5,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,5,154,10,79
+1992-W-SL-USA-01A-1992,US Open,Hard,128,G,19920831,127,200652,1,,Monica Seles,L,178,USA,18.7,200017,5,,Arantxa Sanchez Vicario,R,168,ESP,20.7,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,275,5,154

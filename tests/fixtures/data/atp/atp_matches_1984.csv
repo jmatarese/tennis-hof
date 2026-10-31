@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1984-520,Roland Garros,Clay,128,G,19840528,125,100581,1,,John McEnroe,L,180,USA,25.2,100284,3,,Jimmy Connors,L,178,USA,31.7,7-5 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,1,,3,
+1984-520,Roland Garros,Clay,128,G,19840528,126,100656,2,,Ivan Lendl,R,188,USA,24.2,101062,4,,Mats Wilander,R,183,SWE,19.7,6-3 6-3 7-5,5,SF,,,,,,,,,,,,,,,,,,,,2,,4,
+1984-520,Roland Garros,Clay,128,G,19840528,127,100656,2,,Ivan Lendl,R,188,USA,24.2,100581,1,,John McEnroe,L,180,USA,25.2,3-6 2-6 6-4 7-5 7-5,5,F,,,,,,,,,,,,,,,,,,,,2,,1,
+1984-540,Wimbledon,Grass,128,G,19840625,298,100284,3,,Jimmy Connors,L,178,USA,31.8,100656,2,,Ivan Lendl,R,188,USA,24.3,6-7 6-3 7-5 6-1,5,SF,,,,,,,,,,,,,,,,,,,,3,,2,
+1984-540,Wimbledon,Grass,128,G,19840625,299,100581,1,,John McEnroe,L,180,USA,25.3,101138,,,Pat Cash,R,183,AUS,19.0,6-3 7-6 6-4,5,SF,,,,,,,,,,,,,,,,,,,,1,,33,
+1984-540,Wimbledon,Grass,128,G,19840625,300,100581,1,,John McEnroe,L,180,USA,25.3,100284,3,,Jimmy Connors,L,178,USA,31.8,6-1 6-1 6-2,5,F,,,,,,,,,,,,,,,,,,,,1,,3,
+1984-560,US Open,Hard,128,G,19840828,298,100656,2,,Ivan Lendl,R,188,USA,24.4,101138,15,,Pat Cash,R,183,AUS,19.2,3-6 6-3 6-4 6-7 7-6,5,SF,,,,,,,,,,,,,,,,,,,,2,,18,
+1984-560,US Open,Hard,128,G,19840828,299,100581,1,,John McEnroe,L,180,USA,25.5,100284,3,,Jimmy Connors,L,178,USA,31.9,6-4 4-6 7-5 4-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,1,,3,
+1984-560,US Open,Hard,128,G,19840828,300,100581,1,,John McEnroe,L,180,USA,25.5,100656,2,,Ivan Lendl,R,188,USA,24.4,6-3 6-4 6-1,5,F,,,,,,,,,,,,,,,,,,,,1,,2,
+1984-580,Australian Open,Grass,96,G,19841126,298,100529,9,,Kevin Curren,R,185,USA,26.7,100797,14,,Ben Testerman,L,185,USA,22.8,2-6 4-6 6-3 6-4 6-4,5,SF,,,,,,,,,,,,,,,,,,,,21,,38,
+1984-580,Australian Open,Grass,96,G,19841126,299,101062,2,,Mats Wilander,R,183,SWE,20.2,100532,4,,Johan Kriek,R,175,USA,26.6,6-1 6-0 6-2,5,SF,,,,,,,,,,,,,,,,,,,,4,,15,
+1984-580,Australian Open,Grass,96,G,19841126,300,101062,2,,Mats Wilander,R,183,SWE,20.2,100529,9,,Kevin Curren,R,185,USA,26.7,6-7 6-4 7-6 6-2,5,F,,,,,,,,,,,,,,,,,,,,4,,21,

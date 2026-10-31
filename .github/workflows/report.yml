@@ -32,9 +32,10 @@ jobs:
         with:
           path: |
             ~/.cache/Tectonic
+            ~/.cache/huggingface
             head/.tools
-          key: tectonic-${{ runner.os }}-${{ hashFiles('head/paper/main.tex') }}
-          restore-keys: tectonic-${{ runner.os }}-
+          key: tools-${{ runner.os }}-${{ hashFiles('**/data/snapshot.toml', '**/paper/main.tex') }}
+          restore-keys: tools-${{ runner.os }}-
 
       # Both runs share this runner, so their timings are comparable.
       - name: Run master

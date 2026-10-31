@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1982-520,Roland Garros,Clay,128,G,19820524,125,100282,3,,Guillermo Vilas,L,180,ARG,29.7,100300,13,,Jose Higueras,R,178,ESP,29.2,6-1 6-3 7-6,5,SF,,,,,,,,,,,,,,,,,,,,4,,17,
+1982-520,Roland Garros,Clay,128,G,19820524,126,101062,,,Mats Wilander,R,183,SWE,17.7,100555,4,,Jose Luis Clerc,R,185,ARG,23.7,7-5 6-2 1-6 7-5,5,SF,,,,,,,,,,,,,,,,,,,,18,,6,
+1982-520,Roland Garros,Clay,128,G,19820524,127,101062,,,Mats Wilander,R,183,SWE,17.7,100282,3,,Guillermo Vilas,L,180,ARG,29.7,1-6 7-6 6-0 6-4,5,F,,,,,,,,,,,,,,,,,,,,18,,4,
+1982-540,Wimbledon,Grass,128,G,19820621,298,100284,2,,Jimmy Connors,L,178,USA,29.7,100337,12,,Mark Edmondson,R,185,AUS,27.9,6-4 6-3 6-1,5,SF,,,,,,,,,,,,,,,,,,,,3,,19,
+1982-540,Wimbledon,Grass,128,G,19820621,299,100581,1,,John McEnroe,L,180,USA,23.3,100689,,,Tim Mayotte,R,190,USA,21.8,6-3 6-1 6-2,5,SF,,,,,,,,,,,,,,,,,,,,1,,39,
+1982-540,Wimbledon,Grass,128,G,19820621,300,100284,2,,Jimmy Connors,L,178,USA,29.7,100581,1,,John McEnroe,L,180,USA,23.3,3-6 6-3 6-7 7-6 6-4,5,F,,,,,,,,,,,,,,,,,,,,3,,1,
+1982-560,US Open,Hard,128,G,19820831,298,100284,2,,Jimmy Connors,L,178,USA,29.9,100282,4,,Guillermo Vilas,L,180,ARG,30.0,6-1 3-6 6-2 6-3,5,SF,,,,,,,,,,,,,,,,,,,,2,,4,
+1982-560,US Open,Hard,128,G,19820831,299,100656,3,,Ivan Lendl,R,188,USA,22.4,100581,1,,John McEnroe,L,180,USA,23.5,6-4 6-4 7-6,5,SF,,,,,,,,,,,,,,,,,,,,3,,1,
+1982-560,US Open,Hard,128,G,19820831,300,100284,2,,Jimmy Connors,L,178,USA,29.9,100656,3,,Ivan Lendl,R,188,USA,22.4,6-3 6-2 4-6 6-4,5,F,,,,,,,,,,,,,,,,,,,,2,,3,
+1982-580,Australian Open,Grass,96,G,19821202,93,100532,1,,Johan Kriek,R,175,USA,24.6,100356,16,,Paul Mcnamee,R,178,AUS,28.0,7-6 7-6 4-6 3-6 7-5,5,SF,,,,,,,,,,,,,,,,,,,,12,,,
+1982-580,Australian Open,Grass,96,G,19821202,94,100445,2,,Steve Denton,R,188,USA,26.2,100315,6,,Hank Pfister,R,193,USA,29.1,6-4 4-6 6-3 3-6 7-6,5,SF,,,,,,,,,,,,,,,,,,,,13,,33,
+1982-580,Australian Open,Grass,96,G,19821202,95,100532,1,,Johan Kriek,R,175,USA,24.6,100445,2,,Steve Denton,R,188,USA,26.2,6-3 6-3 6-2,5,F,,,,,,,,,,,,,,,,,,,,12,,13,

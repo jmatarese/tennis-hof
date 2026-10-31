@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1997-W-SL-AUS-01A-1997,Australian Open,Hard,128,G,19970113,125,200096,,,Mary Pierce,R,178,FRA,21.9,200064,12,,Amanda Coetzer,R,158,RSA,25.2,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,22,982,14,1454
+1997-W-SL-AUS-01A-1997,Australian Open,Hard,128,G,19970113,126,200001,4,,Martina Hingis,R,170,SUI,16.2,200597,14,,Mary Joe Fernandez,R,175,USA,25.4,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,4,3321,17,1330
+1997-W-SL-AUS-01A-1997,Australian Open,Hard,128,G,19970113,127,200001,4,,Martina Hingis,R,170,SUI,16.2,200096,,,Mary Pierce,R,178,FRA,21.9,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,4,3321,22,982
+1997-W-SL-FRA-01A-1997,Roland Garros,Clay,128,G,19970526,125,200001,1,,Martina Hingis,R,170,SUI,16.6,200652,3,,Monica Seles,L,178,USA,23.4,6-7(2) 7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1,4648,4,3329
+1997-W-SL-FRA-01A-1997,Roland Garros,Clay,128,G,19970526,126,200723,9,,Iva Majoli,R,175,CRO,19.7,200064,11,,Amanda Coetzer,R,158,RSA,25.5,6-3 4-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,9,2430,11,2228
+1997-W-SL-FRA-01A-1997,Roland Garros,Clay,128,G,19970526,127,200723,9,,Iva Majoli,R,175,CRO,19.7,200001,1,,Martina Hingis,R,170,SUI,16.6,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,9,2430,1,4648
+1997-W-SL-GBR-01A-1997,Wimbledon,Grass,128,G,19970623,125,200001,1,,Martina Hingis,R,170,SUI,16.7,200113,,,Anna Kournikova,R,173,RUS,16.0,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,5169,42,569
+1997-W-SL-GBR-01A-1997,Wimbledon,Grass,128,G,19970623,126,200539,3,,Jana Novotna,R,175,CZE,28.7,200017,8,,Arantxa Sanchez Vicario,R,168,ESP,25.5,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,3,3181,6,2568
+1997-W-SL-GBR-01A-1997,Wimbledon,Grass,128,G,19970623,127,200001,1,,Martina Hingis,R,170,SUI,16.7,200539,3,,Jana Novotna,R,175,CZE,28.7,2-6 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,5169,3,3181
+1997-W-SL-USA-01A-1997,US Open,Hard,128,G,19970825,125,200001,1,,Martina Hingis,R,170,SUI,16.9,200128,6,,Lindsay Davenport,R,189,USA,21.2,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1,6566,6,2831
+1997-W-SL-USA-01A-1997,US Open,Hard,128,G,19970825,126,200748,,,Venus Williams,R,185,USA,17.1,200051,11,,Irina Spirlea,R,175,ROU,23.4,7-6 4-6 7-6,3,SF,,,,,,,,,,,,,,,,,,,,66,411,12,1828
+1997-W-SL-USA-01A-1997,US Open,Hard,128,G,19970825,127,200001,1,,Martina Hingis,R,170,SUI,16.9,200748,,,Venus Williams,R,185,USA,17.1,6-0 6-4,3,F,,,,,,,,,,,,,,,,,,,,1,6566,66,411

@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1984-W-SL-AUS-01A-1984,Australian Open,Grass,64,G,19841126,61,200377,9,,Helena Sukova,R,188,CZE,19.7,200293,1,,Martina Navratilova,L,173,USA,28.1,1-6 6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,10,,1,
+1984-W-SL-AUS-01A-1984,Australian Open,Grass,64,G,19841126,62,200259,2,,Chris Evert,R,168,USA,29.9,200209,4,,Wendy Turnbull,R,164,AUS,32.0,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2,,6,
+1984-W-SL-AUS-01A-1984,Australian Open,Grass,64,G,19841126,63,200259,2,,Chris Evert,R,168,USA,29.9,200377,9,,Helena Sukova,R,188,CZE,19.7,6-7(4) 6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,2,,10,
+1984-W-SL-FRA-01A-1984,Roland Garros,Clay,128,G,19840528,125,200293,1,,Martina Navratilova,L,173,USA,27.6,200348,3,,Hana Mandlikova,R,173,AUS,22.2,3-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,,3,
+1984-W-SL-FRA-01A-1984,Roland Garros,Clay,128,G,19840528,126,200259,2,,Chris Evert,R,168,USA,29.4,200407,,,Camille Benjamin,L,175,USA,17.9,6-0 6-0,3,SF,,,,,,,,,,,,,,,,,,,,2,,47,
+1984-W-SL-FRA-01A-1984,Roland Garros,Clay,128,G,19840528,127,200293,1,,Martina Navratilova,L,173,USA,27.6,200259,2,,Chris Evert,R,168,USA,29.4,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,1,,2,
+1984-W-SL-GBR-01A-1984,Wimbledon,Grass,128,G,19840625,125,200293,1,,Martina Navratilova,L,173,USA,27.6,200389,6,,Kathy Jordan,R,173,USA,24.5,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1,,5,
+1984-W-SL-GBR-01A-1984,Wimbledon,Grass,128,G,19840625,126,200259,2,,Chris Evert,R,168,USA,29.5,200348,3,,Hana Mandlikova,R,173,AUS,22.3,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,,3,
+1984-W-SL-GBR-01A-1984,Wimbledon,Grass,128,G,19840625,127,200293,1,,Martina Navratilova,L,173,USA,27.6,200259,2,,Chris Evert,R,168,USA,29.5,7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,1,,2,
+1984-W-SL-USA-01A-1984,US Open,Hard,128,G,19840828,125,200293,1,,Martina Navratilova,L,173,USA,27.8,200209,13,,Wendy Turnbull,R,164,AUS,31.7,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1,,13,
+1984-W-SL-USA-01A-1984,US Open,Hard,128,G,19840828,126,200259,2,,Chris Evert,R,168,USA,29.6,200423,14,,Carling Bassett Seguso,R,168,CAN,16.8,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,,14,
+1984-W-SL-USA-01A-1984,US Open,Hard,128,G,19840828,127,200293,1,,Martina Navratilova,L,173,USA,27.8,200259,2,,Chris Evert,R,168,USA,29.6,4-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,1,,2,

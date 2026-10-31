@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,125,200652,1,,Monica Seles,L,178,USA,22.1,200039,13,,Chanda Rubin,R,168,USA,19.9,6-7(2) 6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,1,,14,94
+1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,126,200081,8,,Anke Huber,R,173,GER,21.1,200064,16,,Amanda Coetzer,R,158,RSA,24.2,4-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,9,129,18,63
+1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,127,200652,1,,Monica Seles,L,178,USA,22.1,200081,8,,Anke Huber,R,173,GER,21.1,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,1,,9,129
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,125,200414,1,,Steffi Graf,R,175,GER,26.9,200049,3,,Conchita Martinez,R,170,ESP,24.1,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1,327,2,221
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,126,200017,4,,Arantxa Sanchez Vicario,R,168,ESP,24.4,200539,10,,Jana Novotna,R,175,CZE,27.6,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,3,204,8,125
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,127,200414,1,,Steffi Graf,R,175,GER,26.9,200017,4,,Arantxa Sanchez Vicario,R,168,ESP,24.4,6-3 6-7(4) 10-8,3,F,,,,,,,,,,,,,,,,,,,,1,327,3,204
+1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,125,200414,1,,Steffi Graf,R,175,GER,27.0,200617,12,,Kimiko Date Krumm,R,163,JPN,25.7,6-2 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1,326,13,104
+1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,126,200017,4,,Arantxa Sanchez Vicario,R,168,ESP,24.5,200699,,,Meredith Mcgrath,U,,USA,25.1,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,3,206,27,48
+1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,127,200414,1,,Steffi Graf,R,175,GER,27.0,200017,4,,Arantxa Sanchez Vicario,R,168,ESP,24.5,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,1,326,3,206
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,125,200414,1,,Steffi Graf,R,175,GER,27.2,200001,16,,Martina Hingis,R,170,SUI,15.9,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1,330,16,85
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,126,200652,2,,Monica Seles,L,178,USA,22.7,200049,4,,Conchita Martinez,R,170,ESP,24.3,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1,358,3,194
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,127,200414,1,,Steffi Graf,R,175,GER,27.2,200652,2,,Monica Seles,L,178,USA,22.7,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,1,330,1,358

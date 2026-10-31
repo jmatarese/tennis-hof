@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1970-520,Roland Garros,Clay,128,G,19700501,125,100113,7,,Jan Kodes,R,175,CZE,24.1,100160,14,,Georges Goven,R,173,FRA,22.0,2-6 6-2 5-7 6-2 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-520,Roland Garros,Clay,128,G,19700501,126,100141,5,,Zeljko Franulovic,R,,CRO,22.8,100128,8,,Cliff Richey,R,175,USA,23.3,6-4 4-6 1-6 7-5 7-5,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-520,Roland Garros,Clay,128,G,19700501,127,100113,7,,Jan Kodes,R,175,CZE,24.1,100141,5,,Zeljko Franulovic,R,,CRO,22.8,6-2 6-4 6-0,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1970-540,Wimbledon,Grass,128,G,19700622,125,100016,5,,Ken Rosewall,R,175,AUS,35.6,100058,16,,Roger Taylor,L,183,GBR,28.6,6-3 4-6 6-3 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-540,Wimbledon,Grass,128,G,19700622,126,100087,2,,John Newcombe,R,183,AUS,26.0,100026,14,,Andres Gimeno,R,185,ESP,32.8,6-3 8-6 6-0,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-540,Wimbledon,Grass,128,G,19700622,127,100087,2,,John Newcombe,R,183,AUS,26.0,100016,5,,Ken Rosewall,R,175,AUS,35.6,5-7 6-3 6-3 3-6 6-1,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1970-560,US Open,Grass,128,G,19700902,105,100100,4,,Tony Roche,L,178,AUS,25.2,100128,10,,Cliff Richey,R,175,USA,23.6,6-2 7-6 6-1,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-560,US Open,Grass,128,G,19700902,106,100016,3,,Ken Rosewall,R,175,AUS,35.8,100087,2,,John Newcombe,R,183,AUS,26.2,6-3 6-4 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-560,US Open,Grass,128,G,19700902,107,100016,3,,Ken Rosewall,R,175,AUS,35.8,100100,4,,Tony Roche,L,178,AUS,25.2,2-6 6-4 7-6 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1970-580,Australian Open,Grass,64,G,19700119,45,100090,12,,Dick Crealy,R,191,AUS,25.3,100058,8,,Roger Taylor,L,183,GBR,28.2,6-4 9-11 6-3 4-6 8-6,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-580,Australian Open,Grass,64,G,19700119,46,100074,4,,Arthur Ashe,R,185,USA,26.5,100069,6,,Dennis Ralston,R,188,USA,27.4,6-3 8-10 6-3 2-1 RET,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1970-580,Australian Open,Grass,64,G,19700119,47,100074,4,,Arthur Ashe,R,185,USA,26.5,100090,12,,Dick Crealy,R,191,AUS,25.3,6-4 9-7 6-2,5,F,,,,,,,,,,,,,,,,,,,,,,,

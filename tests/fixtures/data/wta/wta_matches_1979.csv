@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1979-W-SL-FRA-01A-1979,Roland Garros,Clay,64,G,19790528,61,200259,1,,Chris Evert,R,168,USA,24.4,200221,3,,Dianne Fromholtz,L,165,AUS,22.7,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-FRA-01A-1979,Roland Garros,Clay,64,G,19790528,62,200209,4,,Wendy Turnbull,R,164,AUS,26.4,200460,7,,Regina Marsikova,U,,CZE,20.4,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-FRA-01A-1979,Roland Garros,Clay,64,G,19790528,63,200259,1,,Chris Evert,R,168,USA,24.4,200209,4,,Wendy Turnbull,R,164,AUS,26.4,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-GBR-01A-1979,Wimbledon,Grass,96,G,19790625,93,200293,1,,Martina Navratilova,L,173,USA,22.6,200397,4,,Tracy Austin,R,165,USA,16.5,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-GBR-01A-1979,Wimbledon,Grass,96,G,19790625,94,200259,2,,Chris Evert,R,168,USA,24.5,200150,3,,Evonne Goolagong,R,168,AUS,27.9,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-GBR-01A-1979,Wimbledon,Grass,96,G,19790625,95,200293,1,,Martina Navratilova,L,173,USA,22.6,200259,2,,Chris Evert,R,168,USA,24.5,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-USA-01A-1979,US Open,Hard,96,G,19790828,93,200259,1,,Chris Evert,R,168,USA,24.6,200190,9,,Billie Jean King,R,168,USA,35.7,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-USA-01A-1979,US Open,Hard,96,G,19790828,94,200397,3,,Tracy Austin,R,165,USA,16.7,200293,2,,Martina Navratilova,L,173,USA,22.8,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-USA-01A-1979,US Open,Hard,96,G,19790828,95,200397,3,,Tracy Austin,R,165,USA,16.7,200259,1,,Chris Evert,R,168,USA,24.6,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-AUS-01A-1979,Australian Open,Grass,32,G,19791224,29,200223,4,,Sharon Walsh Pete,R,174,USA,27.8,200329,,,Mary Sawyer,U,169,AUS,22.5,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-AUS-01A-1979,Australian Open,Grass,32,G,19791224,30,200344,5,,Barbara Jordan,R,165,USA,22.7,200320,3,,Renata Tomanova,R,168,GER,25.0,5-7 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1979-W-SL-AUS-01A-1979,Australian Open,Grass,32,G,19791224,31,200344,5,,Barbara Jordan,R,165,USA,22.7,200223,4,,Sharon Walsh Pete,R,174,USA,27.8,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,

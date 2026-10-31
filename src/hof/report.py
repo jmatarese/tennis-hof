@@ -18,8 +18,10 @@ def compare(base: Path, head: Path) -> pd.DataFrame:
     """One row per player seen in either run, with both ranks and scores."""
     b, _ = _load(base)
     h, _ = _load(head)
-    keep = ["player_id", "name", "rank", "score", "predicted", "inducted", "status"]
-    df = b[keep].merge(h[keep], on=["player_id", "name"], how="outer", suffixes=("_base", "_head"))
+    # ATP and WTA reuse player ids, so a player is tour + player_id
+    who = ["tour", "player_id", "name"]
+    keep = [*who, "rank", "score", "predicted", "inducted", "status"]
+    df = b[keep].merge(h[keep], on=who, how="outer", suffixes=("_base", "_head"))
     df["rank_change"] = df["rank_base"] - df["rank_head"]  # positive = moved up
     df["score_change"] = (df["score_head"] - df["score_base"]).round(4)
     return df.sort_values("rank_head", na_position="last").reset_index(drop=True)

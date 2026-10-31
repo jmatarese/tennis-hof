@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1991-W-SL-AUS-01A-1991,Australian Open,Hard,128,G,19910114,125,200539,10,,Jana Novotna,R,175,CZE,22.2,200017,6,,Arantxa Sanchez Vicario,R,168,ESP,19.0,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,12,92,6,116
+1991-W-SL-AUS-01A-1991,Australian Open,Hard,128,G,19910114,126,200652,2,,Monica Seles,L,178,USA,17.1,200597,3,,Mary Joe Fernandez,R,175,USA,19.4,6-3 0-6 9-7,3,SF,,,,,,,,,,,,,,,,,,,,2,203,4,140
+1991-W-SL-AUS-01A-1991,Australian Open,Hard,128,G,19910114,127,200652,2,,Monica Seles,L,178,USA,17.1,200539,10,,Jana Novotna,R,175,CZE,22.2,5-7 6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,2,203,12,92
+1991-W-SL-FRA-01A-1991,Roland Garros,Clay,128,G,19910527,125,200652,1,,Monica Seles,L,178,USA,17.4,200572,3,,Gabriela Sabatini,R,175,ARG,21.0,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1,235,3,206
+1991-W-SL-FRA-01A-1991,Roland Garros,Clay,128,G,19910527,126,200017,5,,Arantxa Sanchez Vicario,R,168,ESP,19.4,200414,2,,Steffi Graf,R,175,GER,21.9,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,6,124,2,234
+1991-W-SL-FRA-01A-1991,Roland Garros,Clay,128,G,19910527,127,200652,1,,Monica Seles,L,178,USA,17.4,200017,5,,Arantxa Sanchez Vicario,R,168,ESP,19.4,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,1,235,6,124
+1991-W-SL-GBR-01A-1991,Wimbledon,Grass,128,G,19910624,125,200414,1,,Steffi Graf,R,175,GER,22.0,200597,5,,Mary Joe Fernandez,R,175,USA,19.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,2,228,6,132
+1991-W-SL-GBR-01A-1991,Wimbledon,Grass,128,G,19910624,126,200572,2,,Gabriela Sabatini,R,175,ARG,21.1,200077,9,,Jennifer Capriati,R,170,USA,15.2,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,3,215,12,75
+1991-W-SL-GBR-01A-1991,Wimbledon,Grass,128,G,19910624,127,200414,1,,Steffi Graf,R,175,GER,22.0,200572,2,,Gabriela Sabatini,R,175,ARG,21.1,6-4 3-6 8-6,3,F,,,,,,,,,,,,,,,,,,,,2,228,3,215
+1991-W-SL-USA-01A-1991,US Open,Hard,128,G,19910826,125,200293,6,,Martina Navratilova,L,173,USA,34.8,200414,1,,Steffi Graf,R,175,GER,22.1,7-6(2) 6-7(6) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,5,137,1,239
+1991-W-SL-USA-01A-1991,US Open,Hard,128,G,19910826,126,200652,2,,Monica Seles,L,178,USA,17.7,200077,7,,Jennifer Capriati,R,170,USA,15.4,6-3 3-6 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,2,236,7,118
+1991-W-SL-USA-01A-1991,US Open,Hard,128,G,19910826,127,200652,2,,Monica Seles,L,178,USA,17.7,200293,6,,Martina Navratilova,L,173,USA,34.8,7-6(1) 6-1,3,F,,,,,,,,,,,,,,,,,,,,2,236,5,137

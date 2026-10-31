@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1988-520,Roland Garros,Clay,128,G,19880523,125,100936,11,,Henri Leconte,L,185,FRA,24.8,101298,,,Jonas Svensson,R,188,SWE,21.5,7-6 6-2 6-3,5,SF,,,,,,,,,,,,,,,,,,,,14,,21,
+1988-520,Roland Garros,Clay,128,G,19880523,126,101062,3,,Mats Wilander,R,183,SWE,23.7,101736,9,,Andre Agassi,R,180,USA,18.0,4-6 6-2 7-5 5-7 6-0,5,SF,,,,,,,,,,,,,,,,,,,,3,,11,
+1988-520,Roland Garros,Clay,128,G,19880523,127,101062,3,,Mats Wilander,R,183,SWE,23.7,100936,11,,Henri Leconte,L,185,FRA,24.8,7-5 6-2 6-1,5,F,,,,,,,,,,,,,,,,,,,,3,,14,
+1988-540,Wimbledon,Grass,128,G,19880620,125,101414,6,,Boris Becker,R,190,GER,20.5,100656,1,,Ivan Lendl,R,188,USA,28.2,6-4 6-3 6-7 6-4,5,SF,,,,,,,,,,,,,,,,,,,,8,,1,
+1988-540,Wimbledon,Grass,128,G,19880620,126,101222,3,,Stefan Edberg,R,188,SWE,22.4,101036,9,,Miloslav Mecir,R,190,SVK,24.0,4-6 2-6 6-4 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,3,,7,
+1988-540,Wimbledon,Grass,128,G,19880620,127,101222,3,,Stefan Edberg,R,188,SWE,22.4,101414,6,,Boris Becker,R,190,GER,20.5,4-6 7-6 6-4 6-2,5,F,,,,,,,,,,,,,,,,,,,,3,,8,
+1988-560,US Open,Hard,128,G,19880829,125,100656,1,,Ivan Lendl,R,188,USA,28.4,101736,4,,Andre Agassi,R,180,USA,18.3,4-6 6-2 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,1,,4,
+1988-560,US Open,Hard,128,G,19880829,126,101062,2,,Mats Wilander,R,183,SWE,24.0,101190,,,Darren Cahill,R,185,AUS,22.9,6-4 6-4 6-2,5,SF,,,,,,,,,,,,,,,,,,,,2,,33,
+1988-560,US Open,Hard,128,G,19880829,127,101062,2,,Mats Wilander,R,183,SWE,24.0,100656,1,,Ivan Lendl,R,188,USA,28.4,6-4 4-6 6-3 5-7 6-4,5,F,,,,,,,,,,,,,,,,,,,,2,,1,
+1988-580,Australian Open,Hard,128,G,19880111,125,101138,4,,Pat Cash,R,183,AUS,22.6,100656,1,,Ivan Lendl,R,188,USA,27.8,6-4 2-6 6-2 4-6 6-2,5,SF,,,,,,,,,,,,,,,,,,,,7,,1,
+1988-580,Australian Open,Hard,128,G,19880111,126,101062,3,,Mats Wilander,R,183,SWE,23.3,101222,2,,Stefan Edberg,R,188,SWE,21.9,6-0 6-7 6-3 3-6 6-1,5,SF,,,,,,,,,,,,,,,,,,,,3,,2,
+1988-580,Australian Open,Hard,128,G,19880111,127,101062,3,,Mats Wilander,R,183,SWE,23.3,101138,4,,Pat Cash,R,183,AUS,22.6,6-3 6-7 3-6 6-1 8-6,5,F,,,,,,,,,,,,,,,,,,,,3,,7,

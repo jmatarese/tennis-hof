@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1973-520,Roland Garros,Clay,128,G,19730521,125,100119,2,,Ilie Nastase,R,183,ROU,26.8,100127,,,Tom Gorman,R,180,USA,27.3,6-3 6-4 6-1,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-520,Roland Garros,Clay,128,G,19730521,126,100037,,,Nikola Pilic,L,191,CRO,33.7,100214,8,,Adriano Panatta,R,183,ITA,22.8,6-4 6-3 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-520,Roland Garros,Clay,128,G,19730521,127,100119,2,,Ilie Nastase,R,183,ROU,26.8,100037,,,Nikola Pilic,L,191,CRO,33.7,6-3 6-3 6-0,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,125,100092,4,,Alex Metreveli,R,,RUS,28.6,100272,,,Sandy Mayer,R,178,USA,21.2,6-3 3-6 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,126,100113,2,,Jan Kodes,R,175,CZE,27.3,100058,3,,Roger Taylor,L,183,GBR,31.6,8-9 9-7 5-7 6-4 7-5,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-540,Wimbledon,Grass,128,G,19730625,127,100113,2,,Jan Kodes,R,175,CZE,27.3,100092,4,,Alex Metreveli,R,,RUS,28.6,6-1 9-8 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1973-560,US Open,Grass,128,G,19730829,125,100113,6,,Jan Kodes,R,175,CZE,27.4,100126,1,,Stan Smith,R,193,USA,26.7,7-5 6-7 6-1 7-5,5,SF,,,,,,,,,,,,,,,,,,,,11,,3,
+1973-560,US Open,Grass,128,G,19730829,126,100087,10,,John Newcombe,R,183,AUS,29.2,100016,5,,Ken Rosewall,R,175,AUS,38.8,6-4 7-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,7,,6,
+1973-560,US Open,Grass,128,G,19730829,127,100087,10,,John Newcombe,R,183,AUS,29.2,100113,6,,Jan Kodes,R,175,CZE,27.4,6-4 1-6 4-6 6-2 6-3,5,F,,,,,,,,,,,,,,,,,,,,7,,11,
+1973-580,Australian Open,Grass,64,G,19721226,53,100135,12,,Onny Parun,R,188,NZL,25.7,100179,,,Karl Meiler,R,178,GER,23.6,2-6 6-3 7-5,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-580,Australian Open,Grass,64,G,19721226,54,100087,2,,John Newcombe,R,183,AUS,28.5,100185,11,,Patrick Proisy,R,180,FRA,23.2,7-6 6-4 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1973-580,Australian Open,Grass,64,G,19721226,55,100087,2,,John Newcombe,R,183,AUS,28.5,100135,12,,Onny Parun,R,188,NZL,25.7,6-3 6-7 7-5 6-1,5,F,,,,,,,,,,,,,,,,,,,,,,,

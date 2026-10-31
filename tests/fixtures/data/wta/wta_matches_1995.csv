@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1995-W-SL-AUS-01A-1995,Australian Open,Hard,128,G,19950116,125,200017,1,,Arantxa Sanchez Vicario,R,168,ESP,23.0,200501,,,Marianne Werdel Witmeyer,U,,USA,27.2,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,2,311,47,32
+1995-W-SL-AUS-01A-1995,Australian Open,Hard,128,G,19950116,126,200096,4,,Mary Pierce,R,178,FRA,20.0,200049,2,,Conchita Martinez,R,170,ESP,22.7,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,5,155,3,186
+1995-W-SL-AUS-01A-1995,Australian Open,Hard,128,G,19950116,127,200096,4,,Mary Pierce,R,178,FRA,20.0,200017,1,,Arantxa Sanchez Vicario,R,168,ESP,23.0,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,5,155,2,311
+1995-W-SL-FRA-01A-1995,Roland Garros,Clay,128,G,19950529,125,200017,1,,Arantxa Sanchez Vicario,R,168,ESP,23.4,200617,9,,Kimiko Date Krumm,R,163,JPN,24.6,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1,314,9,131
+1995-W-SL-FRA-01A-1995,Roland Garros,Clay,128,G,19950529,126,200414,2,,Steffi Graf,R,175,GER,25.9,200049,4,,Conchita Martinez,R,170,ESP,23.1,6-3 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,2,267,4,219
+1995-W-SL-FRA-01A-1995,Roland Garros,Clay,128,G,19950529,127,200414,2,,Steffi Graf,R,175,GER,25.9,200017,1,,Arantxa Sanchez Vicario,R,168,ESP,23.4,7-5 4-6 6-0,3,F,,,,,,,,,,,,,,,,,,,,2,267,1,314
+1995-W-SL-GBR-01A-1995,Wimbledon,Grass,128,G,19950626,125,200414,1,,Steffi Graf,R,175,GER,26.0,200539,4,,Jana Novotna,R,175,CZE,26.7,5-7 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,316,5,173
+1995-W-SL-GBR-01A-1995,Wimbledon,Grass,128,G,19950626,126,200017,2,,Arantxa Sanchez Vicario,R,168,ESP,23.5,200049,3,,Conchita Martinez,R,170,ESP,23.1,6-3 6-7 6-1,3,SF,,,,,,,,,,,,,,,,,,,,2,293,3,218
+1995-W-SL-GBR-01A-1995,Wimbledon,Grass,128,G,19950626,127,200414,1,,Steffi Graf,R,175,GER,26.0,200017,2,,Arantxa Sanchez Vicario,R,168,ESP,23.5,4-6 6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,1,316,2,293
+1995-W-SL-USA-01A-1995,US Open,Hard,128,G,19950828,125,200414,1,,Steffi Graf,R,175,GER,26.2,200572,9,,Gabriela Sabatini,R,175,ARG,25.2,6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,1,333,8,151
+1995-W-SL-USA-01A-1995,US Open,Hard,128,G,19950828,126,200652,2,,Monica Seles,L,178,USA,21.7,200049,4,,Conchita Martinez,R,170,ESP,23.3,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,,3,211
+1995-W-SL-USA-01A-1995,US Open,Hard,128,G,19950828,127,200414,1,,Steffi Graf,R,175,GER,26.2,200652,2,,Monica Seles,L,178,USA,21.7,7-6 0-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,333,1,

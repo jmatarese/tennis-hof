@@ -1,0 +1,12 @@
+# The one data version every run uses. Change it only in its own PR (see data/README.md).
+name = "v1"                                            # for people
+repo = "jmatarese/atp-data"                            # huggingface.co/datasets/jmatarese/atp-data
+revision = "c704c1bcbe08949246d956b54b099715d5997dcb"  # commit hash of v1: immutable
+files = [
+  "atp/atp_matches_[0-9]*.csv",
+  "atp/atp_rankings_*.csv",
+  "atp/atp_players.csv",
+  "wta/wta_matches_[0-9]*.csv",
+  "wta/wta_rankings_*.csv",
+  "wta/wta_players.csv",
+]

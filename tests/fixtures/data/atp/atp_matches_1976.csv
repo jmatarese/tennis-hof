@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1976-520,Roland Garros,Clay,128,G,19760531,125,100286,7,,Harold Solomon,R,168,USA,23.7,100309,5,,Raul Ramirez,R,183,MEX,22.9,6-7 6-0 4-6 6-4 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1976-520,Roland Garros,Clay,128,G,19760531,126,100214,8,,Adriano Panatta,R,183,ITA,25.8,100232,6,,Eddie Dibbs,R,170,USA,25.2,6-3 6-2 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1976-520,Roland Garros,Clay,128,G,19760531,127,100214,8,,Adriano Panatta,R,183,ITA,25.8,100286,7,,Harold Solomon,R,168,USA,23.7,6-1 6-4 4-6 7-6,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1976-540,Wimbledon,Grass,128,G,19760621,125,100119,3,,Ilie Nastase,R,183,ROU,29.9,100309,8,,Raul Ramirez,R,183,MEX,23.0,6-2 9-7 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1976-540,Wimbledon,Grass,128,G,19760621,126,100437,4,,Bjorn Borg,R,180,SWE,20.0,100255,7,,Roscoe Tanner,L,183,USA,24.6,6-4 9-8 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1976-540,Wimbledon,Grass,128,G,19760621,127,100437,4,,Bjorn Borg,R,180,SWE,20.0,100119,3,,Ilie Nastase,R,183,ROU,29.9,6-4 6-2 9-7,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1976-560,US Open,Clay,128,G,19760901,125,100284,1,,Jimmy Connors,L,178,USA,23.9,100282,3,,Guillermo Vilas,L,180,ARG,24.0,6-4 6-2 6-1,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1976-560,US Open,Clay,128,G,19760901,126,100437,2,,Bjorn Borg,R,180,SWE,20.2,100119,5,,Ilie Nastase,R,183,ROU,30.1,6-3 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1976-560,US Open,Clay,128,G,19760901,127,100284,1,,Jimmy Connors,L,178,USA,23.9,100437,2,,Bjorn Borg,R,180,SWE,20.2,6-4 3-6 7-6 6-4,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1976-580,Australian Open,Grass,64,G,19751226,61,100337,,,Mark Edmondson,R,185,AUS,21.5,100016,1,,Ken Rosewall,R,175,AUS,41.1,6-1 2-6 6-2 6-4,5,SF,,,,,,,,,,,,,,,,,,,,212,0,6,0
+1976-580,Australian Open,Grass,64,G,19751226,62,100087,2,,John Newcombe,R,183,AUS,31.5,100114,,,Ray Ruffels,R,,AUS,29.7,6-4 6-4 7-6,5,SF,,,,,,,,,,,,,,,,,,,,20,0,112,0
+1976-580,Australian Open,Grass,64,G,19751226,63,100337,,,Mark Edmondson,R,185,AUS,21.5,100087,2,,John Newcombe,R,183,AUS,31.5,6-7 6-3 7-6 6-1,5,F,,,,,,,,,,,,,,,,,,,,212,0,20,0

@@ -10,6 +10,12 @@ The method and the data choices (which statistics count, weights, eligibility,
 which tournaments or years, how to evaluate) are the team's research. Lay out
 options and trade-offs; never decide them.
 
+Read `docs/README.md` first. The project brief and working paper in `docs/`
+set the scope and guardrails (singles, Open Era, Hall status as validation
+rather than a training target, explicit missingness over invented proxies).
+They are guidance, not rules; when a choice touches them, say which section
+applies and let the team decide.
+
 ## Commands
 
 - `uv run hof check` runs lint, format and tests. Run it before every push; it is what CI runs.

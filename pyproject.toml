@@ -17,6 +17,7 @@ hof = "hof.cli:main"
 
 [dependency-groups]
 dev = [
+    "duckdb>=2.0.0",
     "hypothesis>=6.120",
     "nbstripout>=0.8",
     "pre-commit>=4.0",

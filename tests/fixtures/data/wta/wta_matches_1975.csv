@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1975-W-SL-AUS-01A-1975,Australian Open,Grass,56,G,19741221,53,200293,8,,Martina Navratilova,L,173,USA,18.1,200297,,,Natasha Chmyreva,U,,URS,16.5,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-AUS-01A-1975,Australian Open,Grass,56,G,19741221,54,200150,3,,Evonne Goolagong,R,168,AUS,23.3,200266,,,Sue Barker,R,165,GBR,18.6,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-AUS-01A-1975,Australian Open,Grass,56,G,19741221,55,200150,3,,Evonne Goolagong,R,168,AUS,23.3,200293,8,,Martina Navratilova,L,173,USA,18.1,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-FRA-01A-1975,Roland Garros,Clay,64,G,19750602,61,200293,2,,Martina Navratilova,L,173,USA,18.6,200263,5,,Janet Newberry,R,170,USA,21.8,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-FRA-01A-1975,Roland Garros,Clay,64,G,19750602,62,200259,1,,Chris Evert,R,168,USA,20.4,200228,3,,Olga Morozova,R,170,URS,26.2,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-FRA-01A-1975,Roland Garros,Clay,64,G,19750602,63,200259,1,,Chris Evert,R,168,USA,20.4,200293,2,,Martina Navratilova,L,173,USA,18.6,2-6 6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-GBR-01A-1975,Wimbledon,Grass,96,G,19750623,93,200190,3,,Billie Jean King,R,168,USA,31.5,200259,1,,Chris Evert,R,168,USA,20.5,2-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-GBR-01A-1975,Wimbledon,Grass,96,G,19750623,94,200150,4,,Evonne Goolagong,R,168,AUS,23.8,200144,5,,Margaret Court,R,175,AUS,32.9,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-GBR-01A-1975,Wimbledon,Grass,96,G,19750623,95,200190,3,,Billie Jean King,R,168,USA,31.5,200150,4,,Evonne Goolagong,R,168,AUS,23.8,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-USA-01A-1975,US Open,Clay,64,G,19750827,61,200259,1,,Chris Evert,R,168,USA,20.6,200293,3,,Martina Navratilova,L,173,USA,18.8,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-USA-01A-1975,US Open,Clay,64,G,19750827,62,200150,4,,Evonne Goolagong,R,168,AUS,24.0,200237,2,,Virginia Wade,R,170,GBR,30.1,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1975-W-SL-USA-01A-1975,US Open,Clay,64,G,19750827,63,200259,1,,Chris Evert,R,168,USA,20.6,200150,4,,Evonne Goolagong,R,168,AUS,24.0,5-7 6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,

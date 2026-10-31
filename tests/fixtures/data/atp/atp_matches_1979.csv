@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1979-520,Roland Garros,Clay,128,G,19790528,298,100395,,,Victor Pecci,R,193,PAR,23.6,100284,2,,Jimmy Connors,L,178,USA,26.7,7-5 6-4 5-7 6-3,5,SF,,,,,,,,,,,,,,,,,,,,29,,1,
+1979-520,Roland Garros,Clay,128,G,19790528,299,100437,1,,Bjorn Borg,R,180,SWE,22.9,100342,4,,Vitas Gerulaitis,R,183,USA,24.8,6-2 6-1 6-0,5,SF,,,,,,,,,,,,,,,,,,,,2,,4,
+1979-520,Roland Garros,Clay,128,G,19790528,300,100437,1,,Bjorn Borg,R,180,SWE,22.9,100395,,,Victor Pecci,R,193,PAR,23.6,6-3 6-1 6-7 6-4,5,F,,,,,,,,,,,,,,,,,,,,2,,29,
+1979-540,Wimbledon,Grass,128,G,19790625,298,100255,5,,Roscoe Tanner,L,183,USA,27.6,100345,,,Pat Dupre,R,190,USA,24.7,6-3 7-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,6,,37,
+1979-540,Wimbledon,Grass,128,G,19790625,299,100437,1,,Bjorn Borg,R,180,SWE,23.0,100284,3,,Jimmy Connors,L,178,USA,26.8,6-2 6-3 6-2,5,SF,,,,,,,,,,,,,,,,,,,,2,,1,
+1979-540,Wimbledon,Grass,128,G,19790625,300,100437,1,,Bjorn Borg,R,180,SWE,23.0,100255,5,,Roscoe Tanner,L,183,USA,27.6,6-7 6-1 3-6 6-3 6-4,5,F,,,,,,,,,,,,,,,,,,,,2,,6,
+1979-560,US Open,Hard,128,G,19790828,298,100342,4,,Vitas Gerulaitis,R,183,USA,25.0,100255,5,,Roscoe Tanner,L,183,USA,27.8,3-6 2-6 7-6 6-3 6-3,5,SF,,,,,,,,,,,,,,,,,,,,5,,4,
+1979-560,US Open,Hard,128,G,19790828,299,100581,3,,John McEnroe,L,180,USA,20.5,100284,2,,Jimmy Connors,L,178,USA,26.9,6-3 6-3 7-5,5,SF,,,,,,,,,,,,,,,,,,,,3,,2,
+1979-560,US Open,Hard,128,G,19790828,300,100581,3,,John McEnroe,L,180,USA,20.5,100342,4,,Vitas Gerulaitis,R,183,USA,25.0,7-5 6-3 6-3,5,F,,,,,,,,,,,,,,,,,,,,3,,5,
+1979-580,Australian Open,Grass,64,G,19791224,61,100282,1,,Guillermo Vilas,L,180,ARG,27.3,100339,3,,Victor Amaya,L,201,USA,25.4,7-5 3-6 7-6 7-6,5,SF,,,,,,,,,,,,,,,,,,,,6,,29,
+1979-580,Australian Open,Grass,64,G,19791224,62,100446,6,,John Sadri,R,188,USA,23.2,100091,,,Colin Dibley,R,188,AUS,35.2,6-4 7-6 6-7 6-4,5,SF,,,,,,,,,,,,,,,,,,,,46,,,
+1979-580,Australian Open,Grass,64,G,19791224,63,100282,1,,Guillermo Vilas,L,180,ARG,27.3,100446,6,,John Sadri,R,188,USA,23.2,7-6 6-3 6-2,5,F,,,,,,,,,,,,,,,,,,,,6,,46,

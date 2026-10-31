@@ -1,0 +1,10 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1986-W-SL-FRA-01A-1986,Roland Garros,Clay,128,G,19860526,125,200293,1,,Martina Navratilova,L,173,USA,29.6,200377,6,,Helena Sukova,R,188,CZE,21.2,4-6 7-6(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,,8,
+1986-W-SL-FRA-01A-1986,Roland Garros,Clay,128,G,19860526,126,200259,2,,Chris Evert,R,168,USA,31.4,200348,5,,Hana Mandlikova,R,173,AUS,24.2,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,2,,5,
+1986-W-SL-FRA-01A-1986,Roland Garros,Clay,128,G,19860526,127,200259,2,,Chris Evert,R,168,USA,31.4,200293,1,,Martina Navratilova,L,173,USA,29.6,2-6 6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,2,,1,
+1986-W-SL-GBR-01A-1986,Wimbledon,Grass,128,G,19860623,125,200293,1,,Martina Navratilova,L,173,USA,29.6,200572,10,,Gabriela Sabatini,R,175,ARG,16.1,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,,12,
+1986-W-SL-GBR-01A-1986,Wimbledon,Grass,128,G,19860623,126,200348,3,,Hana Mandlikova,R,173,AUS,24.3,200259,2,,Chris Evert,R,168,USA,31.5,7-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,4,,2,
+1986-W-SL-GBR-01A-1986,Wimbledon,Grass,128,G,19860623,127,200293,1,,Martina Navratilova,L,173,USA,29.6,200348,3,,Hana Mandlikova,R,173,AUS,24.3,7-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,,4,
+1986-W-SL-USA-01A-1986,US Open,Hard,128,G,19860826,125,200293,1,,Martina Navratilova,L,173,USA,29.8,200414,3,,Steffi Graf,R,175,GER,17.1,6-1 6-7(3) 7-6(8),3,SF,,,,,,,,,,,,,,,,,,,,1,,3,
+1986-W-SL-USA-01A-1986,US Open,Hard,128,G,19860826,126,200377,7,,Helena Sukova,R,188,CZE,21.5,200259,2,,Chris Evert,R,168,USA,31.6,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,7,,2,
+1986-W-SL-USA-01A-1986,US Open,Hard,128,G,19860826,127,200293,1,,Martina Navratilova,L,173,USA,29.8,200377,7,,Helena Sukova,R,188,CZE,21.5,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,1,,7,

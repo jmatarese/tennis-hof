@@ -27,9 +27,10 @@ jobs:
         with:
           path: |
             ~/.cache/Tectonic
+            ~/.cache/huggingface
             .tools
-          key: tectonic-${{ runner.os }}-${{ hashFiles('paper/main.tex') }}
-          restore-keys: tectonic-${{ runner.os }}-
+          key: tools-${{ runner.os }}-${{ hashFiles('**/data/snapshot.toml', '**/paper/main.tex') }}
+          restore-keys: tools-${{ runner.os }}-
       - run: uv run hof run --out results
       - run: uv run hof paper --run results
       - run: |

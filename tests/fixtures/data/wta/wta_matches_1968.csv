@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,59,200144,7,,Margaret Court,R,175,AUS,25.5,200129,1,,Lesley Turner,R,,AUS,25.4,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,60,200190,1,,Billie Jean King,R,168,USA,24.1,200160,3,,Judy Tegart,R,,AUS,30.1,4-6 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,61,200190,1,,Billie Jean King,R,168,USA,24.1,200144,7,,Margaret Court,R,175,AUS,25.5,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,Roland Garros,Clay,96,G,19680527,93,200193,2,,Ann Jones,L,,GBR,29.6,200810,11,,Annette Van Zyl,R,180,RSA,24.6,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,Roland Garros,Clay,96,G,19680527,94,200829,5,,Nancy Richey,R,160,USA,25.7,200190,1,,Billie Jean King,R,168,USA,24.5,2-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,Roland Garros,Clay,96,G,19680527,95,200829,5,,Nancy Richey,R,160,USA,25.7,200193,2,,Ann Jones,L,,GBR,29.6,5-7 6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,93,200190,1,,Billie Jean King,R,168,USA,24.5,200193,4,,Ann Jones,L,,GBR,29.7,4-6 7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,94,200160,7,,Judy Tegart,R,,AUS,30.5,200829,3,,Nancy Richey,R,160,USA,25.8,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,95,200190,1,,Billie Jean King,R,168,USA,24.5,200160,7,,Judy Tegart,R,,AUS,30.5,9-7 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,61,200190,1,,Billie Jean King,R,168,USA,24.7,200848,5,,Maria Bueno,R,170,BRA,28.8,3-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,62,200237,6,,Virginia Wade,R,170,GBR,23.1,200193,2,,Ann Jones,L,,GBR,29.8,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,63,200237,6,,Virginia Wade,R,170,GBR,23.1,200190,1,,Billie Jean King,R,168,USA,24.7,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,

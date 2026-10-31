@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1981-520,Roland Garros,Clay,128,G,19810525,125,100437,1,,Bjorn Borg,R,180,SWE,24.9,100395,,,Victor Pecci,R,193,PAR,25.6,6-4 6-4 7-5,5,SF,,,,,,,,,,,,,,,,,,,,1,,18,
+1981-520,Roland Garros,Clay,128,G,19810525,126,100656,5,,Ivan Lendl,R,188,USA,21.2,100555,7,,Jose Luis Clerc,R,185,ARG,22.7,3-6 6-4 4-6 7-6 6-2,5,SF,,,,,,,,,,,,,,,,,,,,5,,7,
+1981-520,Roland Garros,Clay,128,G,19810525,127,100437,1,,Bjorn Borg,R,180,SWE,24.9,100656,5,,Ivan Lendl,R,188,USA,21.2,6-1 4-6 6-2 3-6 6-1,5,F,,,,,,,,,,,,,,,,,,,,1,,5,
+1981-540,Wimbledon,Grass,128,G,19810622,298,100581,2,,John McEnroe,L,180,USA,22.3,100285,,,Rod Frawley,R,185,AUS,28.7,7-6 6-4 7-5,5,SF,,,,,,,,,,,,,,,,,,,,2,,,
+1981-540,Wimbledon,Grass,128,G,19810622,299,100437,1,,Bjorn Borg,R,180,SWE,25.0,100284,3,,Jimmy Connors,L,178,USA,28.8,0-6 4-6 6-3 6-0 6-4,5,SF,,,,,,,,,,,,,,,,,,,,1,,3,
+1981-540,Wimbledon,Grass,128,G,19810622,300,100581,2,,John McEnroe,L,180,USA,22.3,100437,1,,Bjorn Borg,R,180,SWE,25.0,4-6 7-6 7-6 6-4,5,F,,,,,,,,,,,,,,,,,,,,2,,1,
+1981-560,US Open,Hard,128,G,19810901,298,100437,2,,Bjorn Borg,R,180,SWE,25.2,100284,4,,Jimmy Connors,L,178,USA,28.9,6-2 7-5 6-4,5,SF,,,,,,,,,,,,,,,,,,,,2,,4,
+1981-560,US Open,Hard,128,G,19810901,299,100581,1,,John McEnroe,L,180,USA,22.5,100342,15,,Vitas Gerulaitis,R,183,USA,27.1,5-7 6-3 6-2 4-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,1,,17,
+1981-560,US Open,Hard,128,G,19810901,300,100581,1,,John McEnroe,L,180,USA,22.5,100437,2,,Bjorn Borg,R,180,SWE,25.2,4-6 6-2 6-4 6-3,5,F,,,,,,,,,,,,,,,,,,,,1,,2,
+1981-580,Australian Open,Grass,64,G,19811224,61,100445,,,Steve Denton,R,188,USA,25.3,100315,12,,Hank Pfister,R,193,USA,28.2,7-6 6-7 6-1 3-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,54,,39,
+1981-580,Australian Open,Grass,64,G,19811224,62,100532,4,,Johan Kriek,R,175,USA,23.7,100337,6,,Mark Edmondson,R,185,AUS,27.5,6-0 7-6 7-5,5,SF,,,,,,,,,,,,,,,,,,,,19,,23,
+1981-580,Australian Open,Grass,64,G,19811224,63,100532,4,,Johan Kriek,R,175,USA,23.7,100445,,,Steve Denton,R,188,USA,25.3,6-2 7-6 6-7 6-4,5,F,,,,,,,,,,,,,,,,,,,,19,,54,

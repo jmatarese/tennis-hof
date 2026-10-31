@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+2000-W-SL-AUS-01A-2000,Australian Open,Hard,128,G,20000117,125,200001,1,,Martina Hingis,R,170,SUI,19.2,200049,10,,Conchita Martinez,R,170,ESP,27.7,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,6003,13,1713
+2000-W-SL-AUS-01A-2000,Australian Open,Hard,128,G,20000117,126,200128,2,,Lindsay Davenport,R,189,USA,23.6,200077,,,Jennifer Capriati,R,170,USA,23.8,6-2 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,2,4709,21,1183
+2000-W-SL-AUS-01A-2000,Australian Open,Hard,128,G,20000117,127,200128,2,,Lindsay Davenport,R,189,USA,23.6,200001,1,,Martina Hingis,R,170,SUI,19.2,6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,2,4709,1,6003
+2000-W-SL-FRA-01A-2000,Roland Garros,Clay,128,G,20000529,125,200096,6,,Mary Pierce,R,178,FRA,25.3,200001,1,,Martina Hingis,R,170,SUI,19.6,6-4 5-7 6-2,3,SF,,,,,,,,,,,,,,,,,,,,7,2542,1,5982
+2000-W-SL-FRA-01A-2000,Roland Garros,Clay,128,G,20000529,126,200049,5,,Conchita Martinez,R,170,ESP,28.1,200017,8,,Arantxa Sanchez Vicario,R,168,ESP,28.4,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,5,2573,9,1874
+2000-W-SL-FRA-01A-2000,Roland Garros,Clay,128,G,20000529,127,200096,6,,Mary Pierce,R,178,FRA,25.3,200049,5,,Conchita Martinez,R,170,ESP,28.1,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,7,2542,5,2573
+2000-W-SL-GBR-01A-2000,Wimbledon,Grass,128,G,20000626,125,200748,5,,Venus Williams,R,185,USA,20.0,200033,8,,Serena Williams,R,175,USA,18.7,6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,5,2647,8,2254
+2000-W-SL-GBR-01A-2000,Wimbledon,Grass,128,G,20000626,126,200128,2,,Lindsay Davenport,R,189,USA,24.0,200120,,,Jelena Dokic,R,175,AUS,17.2,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,5815,30,963
+2000-W-SL-GBR-01A-2000,Wimbledon,Grass,128,G,20000626,127,200748,5,,Venus Williams,R,185,USA,20.0,200128,2,,Lindsay Davenport,R,189,USA,24.0,6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,5,2647,2,5815
+2000-W-SL-USA-01A-2000,US Open,Hard,128,G,20000822,125,200748,3,,Venus Williams,R,185,USA,20.1,200001,1,,Martina Hingis,R,170,SUI,19.8,4-6 6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,3,3667,1,5884
+2000-W-SL-USA-01A-2000,US Open,Hard,128,G,20000822,126,200128,2,,Lindsay Davenport,R,189,USA,24.2,200108,,,Elena Dementieva,R,180,RUS,18.8,6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,2,5538,25,1058
+2000-W-SL-USA-01A-2000,US Open,Hard,128,G,20000822,127,200748,3,,Venus Williams,R,185,USA,20.1,200128,2,,Lindsay Davenport,R,189,USA,24.2,6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,3,3667,2,5538

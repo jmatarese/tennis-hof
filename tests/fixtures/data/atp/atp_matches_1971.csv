@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1971-520,Roland Garros,Clay,128,G,19710521,125,100119,3,,Ilie Nastase,R,183,ROU,24.8,100066,,,Frank Froehling,R,190,USA,29.0,6-0 2-6 6-4 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-520,Roland Garros,Clay,128,G,19710521,126,100113,1,,Jan Kodes,R,175,CZE,25.2,100141,5,,Zeljko Franulovic,R,,CRO,23.9,6-4 6-2 7-5,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-520,Roland Garros,Clay,128,G,19710521,127,100113,1,,Jan Kodes,R,175,CZE,25.2,100119,3,,Ilie Nastase,R,183,ROU,24.8,8-6 6-2 2-6 7-5,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1971-540,Wimbledon,Grass,128,G,19710621,125,100126,4,,Stan Smith,R,193,USA,24.5,100127,,,Tom Gorman,R,180,USA,25.4,6-3 8-6 6-2,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-540,Wimbledon,Grass,128,G,19710621,126,100087,2,,John Newcombe,R,183,AUS,27.0,100016,3,,Ken Rosewall,R,175,AUS,36.6,6-1 6-1 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-540,Wimbledon,Grass,128,G,19710621,127,100087,2,,John Newcombe,R,183,AUS,27.0,100126,4,,Stan Smith,R,193,USA,24.5,6-3 5-7 2-6 6-4 6-4,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1971-560,US Open,Grass,128,G,19710901,125,100113,,,Jan Kodes,R,175,CZE,25.5,100074,3,,Arthur Ashe,R,185,USA,28.1,7-6 3-6 4-6 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-560,US Open,Grass,128,G,19710901,126,100126,2,,Stan Smith,R,193,USA,24.7,100084,4,,Tom Okker,R,178,NED,27.5,7-6 6-3 3-6 2-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-560,US Open,Grass,128,G,19710901,127,100126,2,,Stan Smith,R,193,USA,24.7,100113,,,Jan Kodes,R,175,CZE,25.5,3-6 6-3 6-2 7-6,5,F,,,,,,,,,,,,,,,,,,,,,,,
+1971-580,Australian Open,Grass,64,G,19710307,45,100074,3,,Arthur Ashe,R,185,USA,27.6,100144,,,Bob Lutz,R,180,USA,23.5,6-4 6-4 7-6,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-580,Australian Open,Grass,64,G,19710307,46,100016,2,,Ken Rosewall,R,175,AUS,36.3,100084,4,,Tom Okker,R,178,NED,27.0,6-2 7-6 6-4,5,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-580,Australian Open,Grass,64,G,19710307,47,100016,2,,Ken Rosewall,R,175,AUS,36.3,100074,3,,Arthur Ashe,R,185,USA,27.6,6-1 7-5 6-3,5,F,,,,,,,,,,,,,,,,,,,,,,,

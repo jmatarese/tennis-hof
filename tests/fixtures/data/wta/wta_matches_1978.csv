@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1978-W-SL-AUS-01A-1978,Australian Open,Grass,32,G,19781225,29,200256,,,Chris Oneil,R,175,AUS,22.7,200291,,,Dianne Evers,R,,AUS,22.1,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-AUS-01A-1978,Australian Open,Grass,32,G,19781225,30,200333,7,,Betsy Nagelsen,R,175,USA,22.1,200233,,Q,Chris Matison,R,,AUS,27.1,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-AUS-01A-1978,Australian Open,Grass,32,G,19781225,31,200256,,,Chris Oneil,R,175,AUS,22.7,200333,7,,Betsy Nagelsen,R,175,USA,22.1,6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-FRA-01A-1978,Roland Garros,Clay,64,G,19780529,61,200371,1,,Mima Jausovec,R,160,SLO,21.8,200460,3,,Regina Marsikova,U,,CZE,19.4,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-FRA-01A-1978,Roland Garros,Clay,64,G,19780529,62,200337,2,,Virginia Ruzici,R,173,ROU,23.3,200314,,,Brigitte Simon Glinel,U,,FRA,21.5,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-FRA-01A-1978,Roland Garros,Clay,64,G,19780529,63,200337,2,,Virginia Ruzici,R,173,ROU,23.3,200371,1,,Mima Jausovec,R,160,SLO,21.8,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-USA-01A-1978,US Open,Hard,96,G,19780828,93,200360,16,,Pam Shriver,R,183,USA,16.1,200293,1,,Martina Navratilova,L,173,USA,21.8,7-6(3) 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-USA-01A-1978,US Open,Hard,96,G,19780828,94,200259,2,,Chris Evert,R,168,USA,23.6,200209,4,,Wendy Turnbull,R,164,AUS,25.7,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-USA-01A-1978,US Open,Hard,96,G,19780828,95,200259,2,,Chris Evert,R,168,USA,23.6,200360,16,,Pam Shriver,R,183,USA,16.1,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-GBR-01A-1978,Wimbledon,Grass,96,G,19780626,28,200293,2,,Martina Navratilova,L,173,USA,21.6,200259,1,,Chris Evert,R,168,USA,23.5,2-6 6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-GBR-01A-1978,Wimbledon,Grass,96,G,19780626,29,200293,2,,Martina Navratilova,L,173,USA,21.6,200150,3,,Evonne Goolagong,R,168,AUS,26.9,2-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1978-W-SL-GBR-01A-1978,Wimbledon,Grass,96,G,19780626,77,200259,1,,Chris Evert,R,168,USA,23.5,200237,4,,Virginia Wade,R,170,GBR,32.9,8-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,

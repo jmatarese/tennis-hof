@@ -1,6 +1,6 @@
 # Tennis Hall of Fame ranking
 
-An objective ranking of ATP players for the International Tennis Hall of Fame:
+An objective ranking of ATP and WTA players for the International Tennis Hall of Fame:
 score every career from match results and rankings, test the method against
 real inductions, and write the paper. Every change goes through a pull request,
 and every pull request gets a report showing what it did to the rankings.
@@ -9,6 +9,9 @@ and every pull request gets a report showing what it did to the rankings.
 **Latest rankings:** [rankings.csv](https://github.com/jmatarese/tennis-hof/releases/download/latest/rankings.csv)
 
 The default branch is **`master`**.
+
+**Start here:** [`docs/`](docs/README.md) holds the project brief and working
+paper, which set the scope, intent and guardrails. They're guidance, not rules.
 
 ## First-time setup
 
@@ -135,7 +138,9 @@ uv run hof diff results/master results/mine
 
 ```
 src/hof/            the method, as a Python package
-  data.py             the pinned data snapshot: fetch, validate, load
+  data.py             the pinned data snapshot: fetch, validate, flag, load
+  features.py         career statistics per player (PLACEHOLDER)
+  model.py            the score and the ITHF baseline rule (PLACEHOLDER)
   pipeline.py         runs it all, times each stage, writes results/
   evaluate.py         precision, recall, F1, AUC against real inductions
   report.py           compares two runs (the PR comment)
@@ -145,8 +150,9 @@ tests/              what must stay true; see the docstring in each file
   test_pipeline/      golden files: the expected rankings and metrics on the fixture
 data/snapshot.toml  which version of the Hugging Face dataset we use (commit hash)
 data/inductees.csv  actual Hall of Fame inductees, one source URL per row
+docs/               the project brief and working paper (.docx originals + .md copies)
 paper/main.tex      the paper; numbers come from paper/generated/results.tex
-scripts/            setup scripts
+scripts/            setup scripts; build_inductees.py and make_fixture.py rebuild data files
 ```
 
 ## Rules of thumb
@@ -167,5 +173,5 @@ scripts/            setup scripts
 
 ## License
 
-Code: MIT (see `LICENSE`). Data: Jeff Sackmann's ATP data,
+Code: MIT (see `LICENSE`). Data: Jeff Sackmann's ATP and WTA data,
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

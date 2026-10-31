@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1971-W-SL-AUS-01A-1971,Australian Open,Grass,30,G,19710307,27,200144,1,,Margaret Court,R,175,AUS,28.6,200185,,,Lesley Hunt,R,168,AUS,20.7,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-AUS-01A-1971,Australian Open,Grass,30,G,19710307,28,200150,2,,Evonne Goolagong,R,168,AUS,19.6,200211,7,,Winnie Shaw,R,,GBR,24.1,7-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-AUS-01A-1971,Australian Open,Grass,30,G,19710307,29,200144,1,,Margaret Court,R,175,AUS,28.6,200150,2,,Evonne Goolagong,R,168,AUS,19.6,2-6 7-6(0) 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-FRA-01A-1971,Roland Garros,Clay,64,G,19710524,61,200150,3,,Evonne Goolagong,R,168,AUS,19.8,200884,,,Marijke Jansen,U,,NED,26.5,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-FRA-01A-1971,Roland Garros,Clay,64,G,19710524,62,200184,,,Helen Gourlay,R,166,AUS,24.4,200829,4,,Nancy Richey,R,160,USA,28.7,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-FRA-01A-1971,Roland Garros,Clay,64,G,19710524,63,200150,3,,Evonne Goolagong,R,168,AUS,19.8,200184,,,Helen Gourlay,R,166,AUS,24.4,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-GBR-01A-1971,Wimbledon,Grass,96,G,19710621,93,200144,1,,Margaret Court,R,175,AUS,28.9,200160,,,Judy Tegart,R,,AUS,33.5,4-6 6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-GBR-01A-1971,Wimbledon,Grass,96,G,19710621,94,200150,3,,Evonne Goolagong,R,168,AUS,19.8,200190,2,,Billie Jean King,R,168,USA,27.5,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-GBR-01A-1971,Wimbledon,Grass,96,G,19710621,95,200150,3,,Evonne Goolagong,R,168,AUS,19.8,200144,1,,Margaret Court,R,175,AUS,28.9,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-USA-01A-1971,US Open,Grass,64,G,19710901,61,200190,1,,Billie Jean King,R,168,USA,27.7,200259,,,Chris Evert,R,168,USA,16.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-USA-01A-1971,US Open,Grass,64,G,19710901,62,200159,2,,Rosie Casals,R,157,USA,22.9,200176,4,,Kerry Reid,R,166,AUS,24.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1971-W-SL-USA-01A-1971,US Open,Grass,64,G,19710901,63,200190,1,,Billie Jean King,R,168,USA,27.7,200159,2,,Rosie Casals,R,157,USA,22.9,6-4 7-6,3,F,,,,,,,,,,,,,,,,,,,,,,,

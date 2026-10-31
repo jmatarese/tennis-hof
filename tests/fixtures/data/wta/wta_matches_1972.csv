@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1972-W-SL-AUS-01A-1972,Australian Open,Grass,32,G,19711227,29,200150,1,,Evonne Goolagong,R,168,AUS,20.4,200184,4,,Helen Gourlay,R,166,AUS,25.0,6-2 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-AUS-01A-1972,Australian Open,Grass,32,G,19711227,30,200237,2,,Virginia Wade,R,170,GBR,26.4,200145,6,,Kerry Harris,R,173,AUS,22.2,7-6 2-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-AUS-01A-1972,Australian Open,Grass,32,G,19711227,31,200237,2,,Virginia Wade,R,170,GBR,26.4,200150,1,,Evonne Goolagong,R,168,AUS,20.4,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-GBR-01A-1972,Wimbledon,Grass,96,G,19720626,93,200150,1,,Evonne Goolagong,R,168,AUS,20.9,200259,4,,Chris Evert,R,168,USA,17.5,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-GBR-01A-1972,Wimbledon,Grass,96,G,19720626,94,200190,2,,Billie Jean King,R,168,USA,28.5,200159,6,,Rosie Casals,R,157,USA,23.7,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-GBR-01A-1972,Wimbledon,Grass,96,G,19720626,95,200190,2,,Billie Jean King,R,168,USA,28.5,200150,1,,Evonne Goolagong,R,168,AUS,20.9,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-USA-01A-1972,US Open,Grass,64,G,19720828,61,200190,1,,Billie Jean King,R,168,USA,28.7,200144,5,,Margaret Court,R,175,AUS,30.1,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-USA-01A-1972,US Open,Grass,64,G,19720828,62,200176,,,Kerry Reid,R,166,AUS,25.0,200259,3,,Chris Evert,R,168,USA,17.6,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-USA-01A-1972,US Open,Grass,64,G,19720828,63,200190,1,,Billie Jean King,R,168,USA,28.7,200176,,,Kerry Reid,R,166,AUS,25.0,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-FRA-01A-1972,Roland Garros,Clay,56,G,19720522,53,200190,3,,Billie Jean King,R,168,USA,28.4,200317,7,,Helga Masthoff,R,,FRG,30.5,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-FRA-01A-1972,Roland Garros,Clay,56,G,19720522,54,200150,1,,Evonne Goolagong,R,168,AUS,20.8,200194,5,,Francoise Durr,R,162,FRA,29.4,9-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1972-W-SL-FRA-01A-1972,Roland Garros,Clay,56,G,19720522,55,200190,3,,Billie Jean King,R,168,USA,28.4,200150,1,,Evonne Goolagong,R,168,AUS,20.8,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1983-520,Roland Garros,Clay,128,G,19830523,125,100676,6,,Yannick Noah,R,193,FRA,23.0,100486,,,Christophe Roger Vasselin,R,188,FRA,25.8,6-3 6-0 6-0,5,SF,,,,,,,,,,,,,,,,,,,,6,,,
+1983-520,Roland Garros,Clay,128,G,19830523,126,101062,5,,Mats Wilander,R,183,SWE,18.7,100300,8,,Jose Higueras,R,178,ESP,30.2,7-5 6-7 6-3 6-0,5,SF,,,,,,,,,,,,,,,,,,,,5,,7,
+1983-520,Roland Garros,Clay,128,G,19830523,127,100676,6,,Yannick Noah,R,193,FRA,23.0,101062,5,,Mats Wilander,R,183,SWE,18.7,6-2 7-5 7-6,5,F,,,,,,,,,,,,,,,,,,,,6,,5,
+1983-540,Wimbledon,Grass,128,G,19830620,298,100474,,,Chris Lewis,R,180,NZL,26.2,100529,12,,Kevin Curren,R,185,USA,25.3,6-7 6-4 7-6 6-7 8-6,5,SF,,,,,,,,,,,,,,,,,,,,,,15,
+1983-540,Wimbledon,Grass,128,G,19830620,299,100581,2,,John McEnroe,L,180,USA,24.3,100656,3,,Ivan Lendl,R,188,USA,23.2,7-6 6-4 6-4,5,SF,,,,,,,,,,,,,,,,,,,,2,,3,
+1983-540,Wimbledon,Grass,128,G,19830620,300,100581,2,,John McEnroe,L,180,USA,24.3,100474,,,Chris Lewis,R,180,NZL,26.2,6-2 6-2 6-2,5,F,,,,,,,,,,,,,,,,,,,,2,,,
+1983-560,US Open,Hard,128,G,19830830,298,100284,3,,Jimmy Connors,L,178,USA,30.9,100452,16,,Bill Scanlon,R,185,USA,26.7,6-2 6-3 6-2,5,SF,,,,,,,,,,,,,,,,,,,,3,,17,
+1983-560,US Open,Hard,128,G,19830830,299,100656,2,,Ivan Lendl,R,188,USA,23.4,101061,9,,Jimmy Arias,R,175,USA,19.0,6-2 7-6 6-1,5,SF,,,,,,,,,,,,,,,,,,,,2,,9,
+1983-560,US Open,Hard,128,G,19830830,300,100284,3,,Jimmy Connors,L,178,USA,30.9,100656,2,,Ivan Lendl,R,188,USA,23.4,6-3 6-7 7-5 6-0,5,F,,,,,,,,,,,,,,,,,,,,3,,2,
+1983-580,Australian Open,Grass,96,G,19831129,298,101062,3,,Mats Wilander,R,183,SWE,19.2,100581,2,,John McEnroe,L,180,USA,24.7,4-6 6-3 6-4 6-3,5,SF,,,,,,,,,,,,,,,,,,,,5,,2,
+1983-580,Australian Open,Grass,96,G,19831129,299,100656,1,,Ivan Lendl,R,188,USA,23.7,100689,15,,Tim Mayotte,R,190,USA,23.3,6-1 7-6 6-3,5,SF,,,,,,,,,,,,,,,,,,,,1,,30,
+1983-580,Australian Open,Grass,96,G,19831129,300,101062,3,,Mats Wilander,R,183,SWE,19.2,100656,1,,Ivan Lendl,R,188,USA,23.7,6-1 6-4 6-4,5,F,,,,,,,,,,,,,,,,,,,,5,,1,

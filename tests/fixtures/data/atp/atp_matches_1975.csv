@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1975-520,Roland Garros,Clay,128,G,19750604,125,100282,4,,Guillermo Vilas,L,180,ARG,22.7,100232,10,,Eddie Dibbs,R,170,USA,24.2,6-1 6-4 1-6 6-1,5,SF,,,,,,,,,,,,,,,,,,,,3,0,29,0
+1975-520,Roland Garros,Clay,128,G,19750604,126,100437,1,,Bjorn Borg,R,180,SWE,18.9,100214,,,Adriano Panatta,R,183,ITA,24.9,6-4 1-6 7-5 6-4,5,SF,,,,,,,,,,,,,,,,,,,,4,0,53,0
+1975-520,Roland Garros,Clay,128,G,19750604,127,100437,1,,Bjorn Borg,R,180,SWE,18.9,100282,4,,Guillermo Vilas,L,180,ARG,22.7,6-2 6-3 6-4,5,F,,,,,,,,,,,,,,,,,,,,4,0,3,0
+1975-540,Wimbledon,Grass,128,G,19750623,125,100284,1,,Jimmy Connors,L,178,USA,22.8,100255,11,,Roscoe Tanner,L,183,USA,23.6,6-4 6-1 6-4,5,SF,,,,,,,,,,,,,,,,,,,,1,0,13,0
+1975-540,Wimbledon,Grass,128,G,19750623,126,100074,6,,Arthur Ashe,R,185,USA,31.9,100100,16,,Tony Roche,L,178,AUS,30.0,5-7 6-4 7-5 8-9 6-4,5,SF,,,,,,,,,,,,,,,,,,,,8,0,21,0
+1975-540,Wimbledon,Grass,128,G,19750623,127,100074,6,,Arthur Ashe,R,185,USA,31.9,100284,1,,Jimmy Connors,L,178,USA,22.8,6-1 6-1 5-7 6-4,5,F,,,,,,,,,,,,,,,,,,,,8,0,1,0
+1975-560,US Open,Clay,128,G,19750827,125,100284,1,,Jimmy Connors,L,178,USA,22.9,100437,5,,Bjorn Borg,R,180,SWE,19.2,7-5 7-5 7-5,5,SF,,,,,,,,,,,,,,,,,,,,1,,5,
+1975-560,US Open,Clay,128,G,19750827,126,100174,3,,Manuel Orantes,L,178,ESP,26.5,100282,2,,Guillermo Vilas,L,180,ARG,23.0,4-6 1-6 6-2 7-5 6-4,5,SF,,,,,,,,,,,,,,,,,,,,9,,3,
+1975-560,US Open,Clay,128,G,19750827,127,100174,3,,Manuel Orantes,L,178,ESP,26.5,100284,1,,Jimmy Connors,L,178,USA,22.9,6-4 6-3 6-3,5,F,,,,,,,,,,,,,,,,,,,,9,,1,
+1975-580,Australian Open,Grass,32,G,19741221,29,100284,,,Jimmy Connors,L,178,USA,22.2,100090,,,Dick Crealy,R,191,AUS,30.2,6-4 6-3 6-4,5,SF,,,,,,,,,,,,,,,,,,,,1,,71,
+1975-580,Australian Open,Grass,32,G,19741221,30,100087,,,John Newcombe,R,183,AUS,30.5,100100,,,Tony Roche,L,178,AUS,29.5,6-4 4-6 6-4 2-6 11-9,5,SF,,,,,,,,,,,,,,,,,,,,2,,27,
+1975-580,Australian Open,Grass,32,G,19741221,31,100087,,,John Newcombe,R,183,AUS,30.5,100284,,,Jimmy Connors,L,178,USA,22.2,7-5 3-6 6-4 7-6,5,F,,,,,,,,,,,,,,,,,,,,2,,1,

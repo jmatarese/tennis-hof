@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1981-W-SL-AUS-01A-1981,Australian Open,Grass,56,G,19811130,53,200259,1,,Chris Evert,R,168,USA,26.9,200209,7,,Wendy Turnbull,R,164,AUS,29.0,6-4 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-AUS-01A-1981,Australian Open,Grass,56,G,19811130,54,200293,3,,Martina Navratilova,L,173,USA,25.1,200360,6,,Pam Shriver,R,183,USA,19.4,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-AUS-01A-1981,Australian Open,Grass,56,G,19811130,55,200293,3,,Martina Navratilova,L,173,USA,25.1,200259,1,,Chris Evert,R,168,USA,26.9,6-7(4) 6-4 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-FRA-01A-1981,Roland Garros,Clay,96,G,19810525,93,200348,4,,Hana Mandlikova,R,173,AUS,19.2,200259,1,,Chris Evert,R,168,USA,26.4,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-FRA-01A-1981,Roland Garros,Clay,96,G,19810525,94,200366,6,,Sylvia Hanika,L,173,GER,21.4,200381,3,,Andrea Jaeger,R,168,USA,15.9,4-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-FRA-01A-1981,Roland Garros,Clay,96,G,19810525,95,200348,4,,Hana Mandlikova,R,173,AUS,19.2,200366,6,,Sylvia Hanika,L,173,GER,21.4,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-GBR-01A-1981,Wimbledon,Grass,96,G,19810622,93,200259,1,,Chris Evert,R,168,USA,26.5,200360,7,,Pam Shriver,R,183,USA,18.9,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-GBR-01A-1981,Wimbledon,Grass,96,G,19810622,94,200348,2,,Hana Mandlikova,R,173,AUS,19.3,200293,4,,Martina Navratilova,L,173,USA,24.6,7-5 4-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-GBR-01A-1981,Wimbledon,Grass,96,G,19810622,95,200259,1,,Chris Evert,R,168,USA,26.5,200348,2,,Hana Mandlikova,R,173,AUS,19.3,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-USA-01A-1981,US Open,Hard,128,G,19810901,125,200293,4,,Martina Navratilova,L,173,USA,24.8,200259,1,,Chris Evert,R,168,USA,26.6,7-5 4-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-USA-01A-1981,US Open,Hard,128,G,19810901,126,200397,3,,Tracy Austin,R,165,USA,18.7,200375,11,,Barbara Potter,L,175,USA,19.8,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1981-W-SL-USA-01A-1981,US Open,Hard,128,G,19810901,127,200397,3,,Tracy Austin,R,165,USA,18.7,200293,4,,Martina Navratilova,L,173,USA,24.8,1-6 7-6 7-6,3,F,,,,,,,,,,,,,,,,,,,,,,,

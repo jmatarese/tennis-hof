@@ -1,0 +1,13 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1989-W-SL-AUS-01A-1989,Australian Open,Hard,128,G,19890116,125,200414,1,,Steffi Graf,R,175,GER,19.5,200572,3,,Gabriela Sabatini,R,175,ARG,18.6,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1,325,4,145
+1989-W-SL-AUS-01A-1989,Australian Open,Hard,128,G,19890116,126,200377,5,,Helena Sukova,R,188,CZE,23.8,200462,,,Belinda Cordwell,L,175,NZL,23.3,7-6(2) 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,6,84,62,13
+1989-W-SL-AUS-01A-1989,Australian Open,Hard,128,G,19890116,127,200414,1,,Steffi Graf,R,175,GER,19.5,200377,5,,Helena Sukova,R,188,CZE,23.8,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,1,325,6,84
+1989-W-SL-FRA-01A-1989,Roland Garros,Clay,128,G,19890529,125,200414,1,,Steffi Graf,R,175,GER,19.9,200652,,,Monica Seles,L,178,USA,15.4,6-3 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1,316,22,40
+1989-W-SL-FRA-01A-1989,Roland Garros,Clay,128,G,19890529,126,200017,7,,Arantxa Sanchez Vicario,R,168,ESP,17.4,200597,15,,Mary Joe Fernandez,R,175,USA,17.7,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,10,66,20,49
+1989-W-SL-FRA-01A-1989,Roland Garros,Clay,128,G,19890529,127,200017,7,,Arantxa Sanchez Vicario,R,168,ESP,17.4,200414,1,,Steffi Graf,R,175,GER,19.9,7-6(6) 3-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,10,66,1,316
+1989-W-SL-GBR-01A-1989,Wimbledon,Grass,128,G,19890626,125,200414,1,,Steffi Graf,R,175,GER,20.0,200259,4,,Chris Evert,R,168,USA,34.5,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,1,306,4,143
+1989-W-SL-GBR-01A-1989,Wimbledon,Grass,128,G,19890626,126,200293,2,,Martina Navratilova,L,173,USA,32.6,200453,,,Catarina Lindqvist Ryan,R,165,SWE,26.0,7-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,181,25,37
+1989-W-SL-GBR-01A-1989,Wimbledon,Grass,128,G,19890626,127,200414,1,,Steffi Graf,R,175,GER,20.0,200293,2,,Martina Navratilova,L,173,USA,32.6,6-2 6-7 6-1,3,F,,,,,,,,,,,,,,,,,,,,1,306,2,181
+1989-W-SL-USA-01A-1989,US Open,Hard,128,G,19890828,125,200414,1,,Steffi Graf,R,175,GER,20.2,200572,3,,Gabriela Sabatini,R,175,ARG,19.2,3-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1,299,3,150
+1989-W-SL-USA-01A-1989,US Open,Hard,128,G,19890828,126,200293,2,,Martina Navratilova,L,173,USA,32.8,200404,5,,Zina Garrison,R,164,USA,25.7,7-6(4) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,201,6,110
+1989-W-SL-USA-01A-1989,US Open,Hard,128,G,19890828,127,200414,1,,Steffi Graf,R,175,GER,20.2,200293,2,,Martina Navratilova,L,173,USA,32.8,3-6 7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,1,299,2,201
