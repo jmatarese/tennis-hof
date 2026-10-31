@@ -13,6 +13,14 @@ The default branch is **`master`**.
 **Start here:** [`docs/`](docs/README.md) holds the project brief and working
 paper, which set the scope, intent and guardrails. They're guidance, not rules.
 
+## Joining the team
+
+1. Accept the GitHub invitation (check your email or [github.com/notifications](https://github.com/notifications)).
+2. Set up your machine (below), then run `uv run hof doctor` until it's all green.
+3. Read [`docs/README.md`](docs/README.md) and skim the [open issues](https://github.com/jmatarese/tennis-hof/issues): they're the team's open questions.
+4. Your first pull request: add yourself to [`AUTHORS.md`](AUTHORS.md) and to
+   `\author{...}` in `paper/main.tex`, following the daily loop below.
+
 ## First-time setup
 
 ### macOS
